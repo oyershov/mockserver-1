@@ -9,6 +9,6 @@ access-control-allow-headers: Origin, X-Requested-With, Content-Type, Accept, Au
   "email":"admin@peatio.tech",
   "role":"member",
   "level":3,
-  "otp_enabled":false,
+  "otp_enabled":true,
   "state":"active"
 }

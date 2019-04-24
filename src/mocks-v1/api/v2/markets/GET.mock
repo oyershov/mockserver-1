@@ -10,6 +10,10 @@ access-control-allow-headers: Origin, X-Requested-With, Content-Type, Accept, Au
     "name": "BTC/ZAR"
   },
   {
+    "id": "btcusd",
+    "name": "BTC/USD"
+  },
+  {
     "id": "bchbtc",
     "name": "BCH/ZAR"
   },

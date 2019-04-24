@@ -24,7 +24,7 @@ const tradesMock = (ws, channel) => {
         [
           {
             "tid": tradeId,
-            "type": tradeSide,
+            "taker_type": tradeSide,
             "date": Date.now(),
             "price": price.toString(),
             "amount": amount.toString(),
