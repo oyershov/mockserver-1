@@ -104,5 +104,19 @@ Access-Control-Allow-Credentials: true
     "min_bid_amount": "0.0",
     "ask_precision": 4,
     "bid_precision": 4
+  },
+  {
+    "id": "xrpusd",
+    "name": "XRP/USD",
+    "ask_unit": "xrp",
+    "bid_unit": "usd",
+    "ask_fee": "0.0015",
+    "bid_fee": "0.0015",
+    "min_ask_price": "0.0",
+    "max_bid_price": "0.0",
+    "min_ask_amount": "0.0",
+    "min_bid_amount": "0.0",
+    "ask_precision": 4,
+    "bid_precision": 4
   }
 ]

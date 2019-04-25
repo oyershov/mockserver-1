@@ -36,5 +36,9 @@ access-control-allow-headers: Origin, X-Requested-With, Content-Type, Accept, Au
   {
     "id": "xrpbtc",
     "name": "XRP/BTC"
+  },
+  {
+    "id": "xrpusd",
+    "name": "XRP/USD"
   }
 ]

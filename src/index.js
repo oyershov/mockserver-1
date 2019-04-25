@@ -19,6 +19,7 @@ const markets = [
   'BTC/USD',
   'BCH/USD',
   'EUR/USD',
+  'XRP/USD',
 ]
 
 const startMock = (port, version) => {
