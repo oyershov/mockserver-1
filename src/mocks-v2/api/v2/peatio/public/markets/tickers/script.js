@@ -85,6 +85,18 @@ module.exports = {
             "price_change_percent": "+0.00%"
         }
     },
+    "ltcusd": {
+        "at": ts,
+        "ticker": {
+            "buy": "1200.0",
+            "sell": "1300.0",
+            "low": "1150.0",
+            "high": "1350.0",
+            "last": "1250.0",
+            "vol": "120.0",
+            "price_change_percent": "-2.20%"
+        }
+    },
     "xrpbtc": {
         "at": ts,
         "ticker": {

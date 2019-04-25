@@ -34,6 +34,10 @@ access-control-allow-headers: Origin, X-Requested-With, Content-Type, Accept, Au
     "name": "LTC/BTC"
   },
   {
+    "id": "ltcusd",
+    "name": "LTC/USD"
+  },
+  {
     "id": "xrpbtc",
     "name": "XRP/BTC"
   },
