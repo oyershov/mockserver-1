@@ -73,6 +73,18 @@ module.exports = {
             "price_change_percent": "+5.00%"
         }
     },
+    "dashusd": {
+        "at": ts,
+        "ticker": {
+            "buy": "1.20",
+            "sell": "1.30",
+            "low": "1.15",
+            "high": "1.35",
+            "last": "1.250",
+            "vol": "50.0",
+            "price_change_percent": "+3.18%"
+        }
+    },
     "ltcbtc": {
         "at": ts,
         "ticker": {

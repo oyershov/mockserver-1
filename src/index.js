@@ -16,6 +16,7 @@ const markets = [
   'BCH/ZAR',
   'ETH/BTC',
   'DASH/BTC',
+  'DASH/USD',
   'BTC/USD',
   'BCH/USD',
   'EUR/USD',

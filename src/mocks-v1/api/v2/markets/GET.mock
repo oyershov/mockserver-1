@@ -30,6 +30,10 @@ access-control-allow-headers: Origin, X-Requested-With, Content-Type, Accept, Au
     "name": "DASH/BTC"
   },
   {
+    "id": "dashusd",
+    "name": "DASH/USD"
+  },
+  {
     "id": "ltcbtc",
     "name": "LTC/BTC"
   },
