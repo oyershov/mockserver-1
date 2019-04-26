@@ -15,8 +15,6 @@ Access-Control-Allow-Credentials: true
       "followed_uid": "479d4bf9-ca36-457a-ac09-74d4333f207c",
       "enabled": true,
       "subscribed_at": "2019-04-23T14:09:06.000Z",
-      "renewed_at": "2019-04-23T14:09:06.000Z",
-      "created_at": "2019-04-23T14:09:06.000Z",
-      "updated_at": "2019-04-23T14:09:06.000Z"
+      "renewed_at": "2019-04-23T14:09:06.000Z"
     }
 }
