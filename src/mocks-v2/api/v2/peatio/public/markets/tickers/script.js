@@ -9,6 +9,7 @@ module.exports = {
             "low": "1150.0",
             "high": "1350.0",
             "last": "1250.0",
+            "price_change_percent": "+2.34%",
             "vol": "120.0"
         }
     },
@@ -20,6 +21,7 @@ module.exports = {
             "low": "115.0",
             "high": "135.0",
             "last": "125.0",
+            "price_change_percent": "+0.00%",
             "vol": "12.0"
         }
     },
@@ -31,6 +33,7 @@ module.exports = {
             "low": "0.238",
             "high": "0.253",
             "last": "0.245",
+            "price_change_percent": "-0.34%",
             "vol": "200.0"
         }
     },
@@ -42,6 +45,7 @@ module.exports = {
             "low": "1.15",
             "high": "1.35",
             "last": "1.250",
+            "price_change_percent": "+0.05%",
             "vol": "50.0"
         }
     },
@@ -53,6 +57,7 @@ module.exports = {
             "low": "99.0",
             "high": "150.0",
             "last": "105.0",
+            "price_change_percent": "-1.30%",
             "vol": "10.0"
         }
     },
@@ -64,6 +69,7 @@ module.exports = {
             "low": "150.0",
             "high": "350.0",
             "last": "250.0",
+            "price_change_percent": "+0.00%",
             "vol": "20.0"
         }
     },
@@ -75,6 +81,7 @@ module.exports = {
             "low": "150.0",
             "high": "350.0",
             "last": "250.0",
+            "price_change_percent": "+3.04%",
             "vol": "20.0"
         }
     },
@@ -86,6 +93,7 @@ module.exports = {
             "low": "150.0",
             "high": "350.0",
             "last": "250.0",
+            "price_change_percent": "-5.56%",
             "vol": "20.0"
         }
     },
@@ -97,6 +105,7 @@ module.exports = {
             "low": "150.0",
             "high": "350.0",
             "last": "250.0",
+            "price_change_percent": "+10.12%",
             "vol": "20.0"
         }
     },
@@ -108,6 +117,7 @@ module.exports = {
             "low": "150.0",
             "high": "350.0",
             "last": "250.0",
+            "price_change_percent": "-12.02%",
             "vol": "20.0"
         }
     },
@@ -119,6 +129,7 @@ module.exports = {
             "low": "150.0",
             "high": "350.0",
             "last": "250.0",
+            "price_change_percent": "+9.80%",
             "vol": "20.0"
         }
     },
@@ -130,6 +141,7 @@ module.exports = {
             "low": "150.0",
             "high": "350.0",
             "last": "250.0",
+            "price_change_percent": "-1.57%",
             "vol": "20.0"
         }
     }
