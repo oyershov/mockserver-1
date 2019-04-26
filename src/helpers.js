@@ -16,20 +16,20 @@ const Helpers = {
         let tickers = {}
         markets.forEach(name => {
             let { baseUnit, quoteUnit, marketId } = Helpers.getMarketInfos(name);
-            const change = (10 + Math.random() * 10) * (Math.random() > 0.5 ? 1 : -1);
+            const change = (Math.random() * 10) * (Math.random() > 0.5 ? 1 : -1);
             const signPrefix = change >= 0 ? '+' : '';
 
             tickers[marketId] = {
                 "name": name,
                 "base_unit": baseUnit,
                 "quote_unit": quoteUnit,
-                "low": "0.001",
-                "high": "0.145",
-                "last": "0.134",
-                "open": 0.134,
-                "volume": "0.0",
-                "sell": "0.0",
-                "buy": "0.0",
+                "low": `${(0.001 * Math.abs(change.toFixed(2))).toFixed(4)}`,
+                "high": `${(0.145 * Math.abs(change.toFixed(2))).toFixed(4)}`,
+                "last": `${(0.134 * Math.abs(change.toFixed(2))).toFixed(4)}`,
+                "open": (0.134 * Math.abs(change.toFixed(2))).toFixed(4),
+                "volume": `${(200 * Math.abs(change.toFixed(2) * 10)).toFixed(4)}`,
+                "sell": `${(1200 * Math.abs(change.toFixed(2))).toFixed(4)}`,
+                "buy": `${(1300 * Math.abs(change.toFixed(2))).toFixed(4)}`,
                 "avg_price": "0.0",
                 "price_change_percent": `${signPrefix}${change.toFixed(2)}%`,
                 "at": Date.now() / 1000,

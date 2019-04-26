@@ -12,11 +12,24 @@ const rangerPort = argv.rangerPort || 9011;
 const help = argv.h || argv.help;
 
 const markets = [
-  'BTC/ZAR',
+  'BCH/BTC',
+  'BCH/USD',
   'BCH/ZAR',
-  'ETH/BTC',
+  'BTC/USD',
+  'BTC/ZAR',
   'DASH/BTC',
+  'DASH/USD',
+  'DASH/ZAR',
+  'ETH/BTC',
+  'ETH/ZAR',
   'EUR/USD',
+  'LTC/BTC',
+  'LTC/USD',
+  'LTC/ZAR',
+  'TRX/BTC',
+  'TRX/USD',
+  'XRP/USD',
+  'XRP/ZAR',
 ]
 
 const startMock = (port, version) => {

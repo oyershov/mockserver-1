@@ -22,14 +22,6 @@ Access-Control-Allow-Credentials: true
     }
   },
   {
-    "currency": "eth",
-    "type": "coin",
-    "fee": {
-      "type": "fixed",
-      "value": "0.0"
-    }
-  },
-  {
     "currency": "dash",
     "type": "coin",
     "fee": {
@@ -38,8 +30,40 @@ Access-Control-Allow-Credentials: true
     }
   },
   {
+    "currency": "eth",
+    "type": "coin",
+    "fee": {
+      "type": "fixed",
+      "value": "0.0"
+    }
+  },
+  {
+    "currency": "eur",
+    "type": "fiat",
+    "fee": {
+      "type": "fixed",
+      "value": "0.0"
+    }
+  },
+  {
     "currency": "ltc",
     "type": "coin",
+    "fee": {
+      "type": "fixed",
+      "value": "0.0"
+    }
+  },
+  {
+    "currency": "trx",
+    "type": "coin",
+    "fee": {
+      "type": "fixed",
+      "value": "0.0"
+    }
+  },
+  {
+    "currency": "usd",
+    "type": "fiat",
     "fee": {
       "type": "fixed",
       "value": "0.0"
@@ -55,22 +79,6 @@ Access-Control-Allow-Credentials: true
   },
   {
     "currency": "zar",
-    "type": "fiat",
-    "fee": {
-      "type": "fixed",
-      "value": "0.0"
-    }
-  },
-  {
-    "currency": "eur",
-    "type": "fiat",
-    "fee": {
-      "type": "fixed",
-      "value": "0.0"
-    }
-  },
-  {
-    "currency": "usd",
     "type": "fiat",
     "fee": {
       "type": "fixed",

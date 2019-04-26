@@ -54,6 +54,14 @@ access-control-allow-headers: Origin, X-Requested-With, Content-Type, Accept, Au
     }
   },
   {
+    "currency": "trx",
+    "type": "coin",
+    "fee": {
+      "type": "fixed",
+      "value": "0.03"
+    }
+  },
+  {
     "currency": "fiat",
     "type": "fiat",
     "fee": {

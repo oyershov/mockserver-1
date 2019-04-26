@@ -10,8 +10,16 @@ access-control-allow-headers: Origin, X-Requested-With, Content-Type, Accept, Au
     "name": "BTC/ZAR"
   },
   {
+    "id": "btcusd",
+    "name": "BTC/USD"
+  },
+  {
     "id": "bchbtc",
     "name": "BCH/ZAR"
+  },
+  {
+    "id": "bchusd",
+    "name": "BCH/USD"
   },
   {
     "id": "ethbtc",
@@ -22,11 +30,31 @@ access-control-allow-headers: Origin, X-Requested-With, Content-Type, Accept, Au
     "name": "DASH/BTC"
   },
   {
+    "id": "dashusd",
+    "name": "DASH/USD"
+  },
+  {
     "id": "ltcbtc",
     "name": "LTC/BTC"
   },
   {
+    "id": "ltcusd",
+    "name": "LTC/USD"
+  },
+  {
+    "id": "trxbtc",
+    "name": "TRX/BTC"
+  },
+  {
+    "id": "trxusd",
+    "name": "TRX/USD"
+  },
+  {
     "id": "xrpbtc",
     "name": "XRP/BTC"
+  },
+  {
+    "id": "xrpusd",
+    "name": "XRP/USD"
   }
 ]

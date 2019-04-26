@@ -35,6 +35,11 @@ access-control-allow-headers: Origin, X-Requested-With, Content-Type, Accept, Au
       "locked":"0.0"
     },
     {
+      "currency":"trx",
+      "balance":"123.39",
+      "locked":"0.1"
+    },
+    {
       "currency":"xrp",
       "balance":"1234.0",
       "locked":"0.0"
