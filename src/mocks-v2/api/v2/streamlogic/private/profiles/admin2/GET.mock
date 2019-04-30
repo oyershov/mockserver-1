@@ -8,9 +8,9 @@ Access-Control-Allow-Credentials: true
     "country": "UA",
     "facebook_url": null,
     "incognito": false,
-    "nickname": "ymasiuk",
+    "nickname": "admin2",
     "subscription_price": "1.0",
-    "telegram_url": "https://t.me/ymasiuk",
+    "telegram_url": "https://t.me/admin2",
     "twitter_url": "",
-    "uid": "IDBACB004F6E"
+    "subscribers": 120
 }
