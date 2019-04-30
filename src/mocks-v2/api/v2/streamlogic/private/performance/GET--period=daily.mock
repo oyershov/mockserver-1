@@ -8,8 +8,7 @@ Access-Control-Allow-Credentials: true
   {
     "nickname": "admin",
     "nationality": "us",
-    "picture": "",
-    "performance": {
+    "performances": {
       "1d": "0.20",
       "7d": "0.20",
       "30d": "0.50",
@@ -21,8 +20,7 @@ Access-Control-Allow-Credentials: true
   {
     "nickname": "admin2",
     "nationality": "us",
-    "picture": "",
-    "performance": {
+    "performances": {
       "1d": "0.20",
       "7d": "0.20",
       "30d": "0.50",
@@ -34,8 +32,7 @@ Access-Control-Allow-Credentials: true
   {
     "nickname": "admin3",
     "nationality": "us",
-    "picture": "",
-    "performance": {
+    "performances": {
       "1d": "0.20",
       "7d": "0.20",
       "30d": "0.50",
@@ -47,8 +44,7 @@ Access-Control-Allow-Credentials: true
   {
     "nickname": "admin4",
     "nationality": "us",
-    "picture": "",
-    "performance": {
+    "performances": {
       "1d": "0.20",
       "7d": "0.20",
       "30d": "0.50",
@@ -60,8 +56,7 @@ Access-Control-Allow-Credentials: true
   {
     "nickname": "admin5",
     "nationality": "us",
-    "picture": "",
-    "performance": {
+    "performances": {
       "1d": "0.20",
       "7d": "0.20",
       "30d": "0.50",
@@ -73,8 +68,7 @@ Access-Control-Allow-Credentials: true
   {
     "nickname": "admin6",
     "nationality": "us",
-    "picture": "",
-    "performance": {
+    "performances": {
       "1d": "0.20",
       "7d": "0.20",
       "30d": "0.50",
@@ -86,8 +80,7 @@ Access-Control-Allow-Credentials: true
   {
     "nickname": "admin7",
     "nationality": "us",
-    "picture": "",
-    "performance": {
+    "performances": {
       "1d": "0.20",
       "7d": "0.20",
       "30d": "0.50",
@@ -99,8 +92,7 @@ Access-Control-Allow-Credentials: true
   {
     "nickname": "admin8",
     "nationality": "us",
-    "picture": "",
-    "performance": {
+    "performances": {
       "1d": "0.20",
       "7d": "0.20",
       "30d": "0.50",
@@ -112,8 +104,7 @@ Access-Control-Allow-Credentials: true
   {
     "nickname": "admin9",
     "nationality": "us",
-    "picture": "",
-    "performance": {
+    "performances": {
       "1d": "0.20",
       "7d": "0.20",
       "30d": "0.50",
@@ -125,8 +116,7 @@ Access-Control-Allow-Credentials: true
   {
     "nickname": "admin10",
     "nationality": "us",
-    "picture": "",
-    "performance": {
+    "performances": {
       "1d": "0.20",
       "7d": "0.20",
       "30d": "0.50",
