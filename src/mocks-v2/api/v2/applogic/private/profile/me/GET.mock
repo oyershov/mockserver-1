@@ -1,0 +1,16 @@
+HTTP/2 200
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET, POST, DELETE, PUT, PATCH, OPTIONS, HEAD
+Access-Control-Max-Age: 3600
+Access-Control-Allow-Credentials: true
+
+{
+    "country": "UA",
+    "facebook_url": "",
+    "incognito": false,
+    "nickname": "admin",
+    "subscription_price": "1.0",
+    "telegram_url": "https://t.me/admin",
+    "twitter_url": "",
+    "uid": "IDBACB004F6E"
+}

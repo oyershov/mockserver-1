@@ -5,13 +5,4 @@ Access-Control-Allow-Methods: GET, POST, DELETE, PUT, PATCH, OPTIONS, HEAD
 Access-Control-Max-Age: 3600
 Access-Control-Allow-Credentials: true
 
-{
-  "id": "eur",
-  "symbol": "$",
-  "type": "fiat",
-  "deposit_fee": "0.0",
-  "withdraw_fee": "0.0",
-  "quick_withdraw_limit": "1000.0",
-  "base_factor": 1,
-  "precision": 8
-}
+#import './getCurrencies.js';
