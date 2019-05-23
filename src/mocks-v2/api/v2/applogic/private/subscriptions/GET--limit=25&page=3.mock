@@ -3,126 +3,118 @@ Access-Control-Allow-Origin: *
 Access-Control-Allow-Methods: GET, POST, DELETE, PUT, PATCH, OPTIONS, HEAD
 Access-Control-Max-Age: 3600
 Access-Control-Allow-Credentials: true
+Access-Control-Expose-Headers: total
+Total: 30
 
 [
   {
-    "nickname": "admin",
+    "nickname": "subscribe20",
     "nationality": "us",
     "performances": {
       "1d": "0.20",
       "7d": "1",
       "30d": "-1",
       "90d": "0.20"
-    },
-    "trading_volume": "1000000",
-    "subscribers": "5000"
+    }
   },
   {
-    "nickname": "admin2",
+    "nickname": "subscribe22",
     "nationality": "us",
     "performances": {
       "1d": "0.20",
       "7d": "0.20",
       "30d": "0.50",
       "90d": "0.20"
-    },
-    "trading_volume": "1000000",
-    "subscribers": "5000"
+    }
   },
   {
-    "nickname": "admin3",
+    "nickname": "subscribe23",
     "nationality": "us",
     "performances": {
       "1d": "0.20",
       "7d": "0.20",
       "30d": "0.50",
       "90d": "0.20"
-    },
-    "trading_volume": "1000000",
-    "subscribers": "5000"
+    }
   },
   {
-    "nickname": "admin4",
+    "nickname": "subscribe24",
     "nationality": "us",
     "performances": {
       "1d": "0.20",
       "7d": "0.20",
       "30d": "0.50",
       "90d": "0.20"
-    },
-    "trading_volume": "1000000",
-    "subscribers": "5000"
+    }
   },
   {
-    "nickname": "admin5",
+    "nickname": "subscribe25",
     "nationality": "us",
     "performances": {
       "1d": "0.20",
       "7d": "0.20",
       "30d": "0.50",
       "90d": "0.20"
-    },
-    "trading_volume": "1000000",
-    "subscribers": "5000"
+    }
   },
   {
-    "nickname": "admin6",
+    "nickname": "subscribe26",
     "nationality": "us",
     "performances": {
       "1d": "0.20",
       "7d": "0.20",
       "30d": "0.50",
       "90d": "0.20"
-    },
-    "trading_volume": "1000000",
-    "subscribers": "5000"
+    }
   },
   {
-    "nickname": "admin7",
+    "nickname": "subscribe27",
     "nationality": "us",
     "performances": {
       "1d": "0.20",
       "7d": "0.20",
       "30d": "0.50",
       "90d": "0.20"
-    },
-    "trading_volume": "1000000",
-    "subscribers": "5000"
+    }
   },
   {
-    "nickname": "admin8",
+    "nickname": "subscribe28",
     "nationality": "us",
     "performances": {
       "1d": "0.20",
       "7d": "0.20",
       "30d": "0.50",
       "90d": "0.20"
-    },
-    "trading_volume": "1000000",
-    "subscribers": "5000"
+    }
   },
   {
-    "nickname": "admin9",
+    "nickname": "subscribe29",
     "nationality": "us",
     "performances": {
       "1d": "0.20",
       "7d": "0.20",
       "30d": "0.50",
       "90d": "0.20"
-    },
-    "trading_volume": "1000000",
-    "subscribers": "5000"
+    }
   },
   {
-    "nickname": "admin10",
+    "nickname": "subscribe30",
     "nationality": "us",
     "performances": {
       "1d": "0.20",
       "7d": "0.20",
       "30d": "0.50",
       "90d": "0.20"
-    },
-    "trading_volume": "123323",
-    "subscribers": "1000"
+    }
+  },
+  {
+    "nickname": "subscribe31",
+    "nationality": "us",
+    "performances": {
+      "1d": "0.20",
+      "7d": "0.20",
+      "30d": "0.50",
+      "90d": "0.20"
+    }
   }
 ]
