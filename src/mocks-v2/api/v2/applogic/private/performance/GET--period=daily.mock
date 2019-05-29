@@ -15,7 +15,8 @@ Access-Control-Allow-Credentials: true
       "90d": "0.20"
     },
     "trading_volume": "1000000",
-    "subscribers": "5000"
+    "subscribers": "5000",
+    "image": "https://images.pexels.com/photos/104827/cat-pet-animal-domestic-104827.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
   },
   {
     "nickname": "admin2",
@@ -27,7 +28,8 @@ Access-Control-Allow-Credentials: true
       "90d": "0.20"
     },
     "trading_volume": "1000000",
-    "subscribers": "5000"
+    "subscribers": "5000",
+    "image": "https://images.pexels.com/photos/104827/cat-pet-animal-domestic-104827.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
   },
   {
     "nickname": "admin3",
