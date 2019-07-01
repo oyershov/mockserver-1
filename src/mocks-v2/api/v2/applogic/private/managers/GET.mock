@@ -1,0 +1,165 @@
+HTTP/2 201
+access-control-allow-origin: *
+access-control-allow-methods: GET, POST, PUT, PATCH, DELETE
+access-control-allow-headers: Origin, X-Requested-With, Content-Type, Accept, Authorization
+Access-Control-Max-Age: 3600
+Access-Control-Allow-Credentials: true
+
+[
+    {
+        "uid": "ID535CA9B521",
+        "first_name": "Name21",
+        "last_name": "Surname21",
+        "email": "test21@barong.io",
+        "region": "China",
+        "klass": "IB",
+        "state": "active",
+        "referrer_uid": "IB000004334",
+        "manager_uid": "ID234234234",
+        "created_at": "2019-06-25T11:34:11+02:00",
+        "updated_at": "2019-06-25T11:36:13+02:00"
+    },
+    {
+        "uid": "ID789CA9B522",
+        "first_name": "Name22",
+        "last_name": "Surname22",
+        "email": "test22@barong.io",
+        "region": "China",
+        "klass": "MIB",
+        "state": "pending",
+        "referrer_uid": "IB000004365",
+        "manager_uid": "ID2342344544",
+        "created_at": "2019-06-25T11:34:11+02:00",
+        "updated_at": "2019-06-25T11:36:13+02:00"
+    },
+    {
+        "uid": "ID535CA9B523",
+        "first_name": "Name23",
+        "last_name": "Surname23",
+        "email": "test23@barong.io",
+        "region": "China",
+        "klass": "IB",
+        "state": "active",
+        "referrer_uid": "IB000004334",
+        "manager_uid": "ID234234234",
+        "created_at": "2019-06-25T11:34:11+02:00",
+        "updated_at": "2019-06-25T11:36:13+02:00"
+    },
+    {
+        "uid": "ID789CA9B524",
+        "first_name": "Name24",
+        "last_name": "Surname24",
+        "email": "test24@barong.io",
+        "region": "China",
+        "klass": "MIB",
+        "state": "pending",
+        "referrer_uid": "IB000004365",
+        "manager_uid": "ID2342344544",
+        "created_at": "2019-06-25T11:34:11+02:00",
+        "updated_at": "2019-06-25T11:36:13+02:00"
+    },
+    {
+        "uid": "ID535CA9B525",
+        "first_name": "Name25",
+        "last_name": "Surname25",
+        "email": "test25@barong.io",
+        "region": "China",
+        "klass": "IB",
+        "state": "active",
+        "referrer_uid": "IB000004334",
+        "manager_uid": "ID234234234",
+        "created_at": "2019-06-25T11:34:11+02:00",
+        "updated_at": "2019-06-25T11:36:13+02:00"
+    },
+    {
+        "uid": "ID789CA9B526",
+        "first_name": "Name26",
+        "last_name": "Surname26",
+        "email": "test26@barong.io",
+        "region": "China",
+        "klass": "MIB",
+        "state": "pending",
+        "referrer_uid": "IB000004365",
+        "manager_uid": "ID2342344544",
+        "created_at": "2019-06-25T11:34:11+02:00",
+        "updated_at": "2019-06-25T11:36:13+02:00"
+    },
+    {
+        "uid": "ID535CA9B527",
+        "first_name": "Name27",
+        "last_name": "Surname27",
+        "email": "test27@barong.io",
+        "region": "China",
+        "klass": "IB",
+        "state": "active",
+        "referrer_uid": "IB000004334",
+        "manager_uid": "ID234234234",
+        "created_at": "2019-06-25T11:34:11+02:00",
+        "updated_at": "2019-06-25T11:36:13+02:00"
+    },
+    {
+        "uid": "ID789CA9B528",
+        "first_name": "Name28",
+        "last_name": "Surname28",
+        "email": "test28@barong.io",
+        "region": "China",
+        "klass": "MIB",
+        "state": "pending",
+        "referrer_uid": "IB000004365",
+        "manager_uid": "ID2342344544",
+        "created_at": "2019-06-25T11:34:11+02:00",
+        "updated_at": "2019-06-25T11:36:13+02:00"
+    },
+    {
+        "uid": "ID535CA9B529",
+        "first_name": "Name29",
+        "last_name": "Surname29",
+        "email": "test29@barong.io",
+        "region": "China",
+        "klass": "IB",
+        "state": "active",
+        "referrer_uid": "IB000004334",
+        "manager_uid": "ID234234234",
+        "created_at": "2019-06-25T11:34:11+02:00",
+        "updated_at": "2019-06-25T11:36:13+02:00"
+    },
+    {
+        "uid": "ID789CA9B530",
+        "first_name": "Name30",
+        "last_name": "Surname30",
+        "email": "test30@barong.io",
+        "region": "China",
+        "klass": "MIB",
+        "state": "pending",
+        "referrer_uid": "IB000004365",
+        "manager_uid": "ID2342344544",
+        "created_at": "2019-06-25T11:34:11+02:00",
+        "updated_at": "2019-06-25T11:36:13+02:00"
+    },
+    {
+        "uid": "ID789CA9B531",
+        "first_name": "Name31",
+        "last_name": "Surname31",
+        "email": "test31@barong.io",
+        "region": "China",
+        "klass": "MIB",
+        "state": "pending",
+        "referrer_uid": "IB000004365",
+        "manager_uid": "ID2342344544",
+        "created_at": "2019-06-25T11:34:11+02:00",
+        "updated_at": "2019-06-25T11:36:13+02:00"
+    },
+    {
+        "uid": "ID535CA9B532",
+        "first_name": "Name32",
+        "last_name": "Surname32",
+        "email": "test32@barong.io",
+        "region": "China",
+        "klass": "IB",
+        "state": "active",
+        "referrer_uid": "IB000004334",
+        "manager_uid": "ID234234234",
+        "created_at": "2019-06-25T11:34:11+02:00",
+        "updated_at": "2019-06-25T11:36:13+02:00"
+    }
+]
