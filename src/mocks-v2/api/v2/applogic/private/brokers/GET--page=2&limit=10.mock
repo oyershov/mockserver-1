@@ -1,0 +1,36 @@
+HTTP/2 200
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET, POST, DELETE, PUT, PATCH, OPTIONS, HEAD
+Access-Control-Max-Age: 3600
+Access-Control-Allow-Credentials: true
+Access-Control-Expose-Headers: total
+Total: 12
+
+[
+    {
+        "uid": "ID789CA9B511",
+        "first_name": "Name11",
+        "last_name": "Surname11",
+        "email": "test11@barong.io",
+        "region": "China",
+        "klass": "MIB",
+        "state": "pending",
+        "referrer_uid": "IB000004365",
+        "manager_uid": "ID2342344544",
+        "created_at": "2019-06-25T11:34:11+02:00",
+        "updated_at": "2019-06-25T11:36:13+02:00"
+    },
+    {
+        "uid": "ID535CA9B512",
+        "first_name": "Name12",
+        "last_name": "Surname12",
+        "email": "test12@barong.io",
+        "region": "China",
+        "klass": "IB",
+        "state": "active",
+        "referrer_uid": "IB000004334",
+        "manager_uid": "ID234234234",
+        "created_at": "2019-06-25T11:34:11+02:00",
+        "updated_at": "2019-06-25T11:36:13+02:00"
+    }
+]

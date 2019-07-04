@@ -1,9 +1,9 @@
-HTTP/2 201
-access-control-allow-origin: *
-access-control-allow-methods: GET, POST, PUT, PATCH, DELETE
-access-control-allow-headers: Origin, X-Requested-With, Content-Type, Accept, Authorization
+HTTP/2 200
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET, POST, DELETE, PUT, PATCH, OPTIONS, HEAD
 Access-Control-Max-Age: 3600
 Access-Control-Allow-Credentials: true
+Access-Control-Expose-Headers: total
 Total: 12
 
 [
@@ -134,32 +134,6 @@ Total: 12
         "state": "pending",
         "referrer_uid": "IB000004365",
         "manager_uid": "ID2342344544",
-        "created_at": "2019-06-25T11:34:11+02:00",
-        "updated_at": "2019-06-25T11:36:13+02:00"
-    },
-    {
-        "uid": "ID789CA9B531",
-        "first_name": "Name31",
-        "last_name": "Surname31",
-        "email": "test31@barong.io",
-        "region": "China",
-        "klass": "MIB",
-        "state": "pending",
-        "referrer_uid": "IB000004365",
-        "manager_uid": "ID2342344544",
-        "created_at": "2019-06-25T11:34:11+02:00",
-        "updated_at": "2019-06-25T11:36:13+02:00"
-    },
-    {
-        "uid": "ID535CA9B532",
-        "first_name": "Name32",
-        "last_name": "Surname32",
-        "email": "test32@barong.io",
-        "region": "China",
-        "klass": "IB",
-        "state": "active",
-        "referrer_uid": "IB000004334",
-        "manager_uid": "ID234234234",
         "created_at": "2019-06-25T11:34:11+02:00",
         "updated_at": "2019-06-25T11:36:13+02:00"
     }
