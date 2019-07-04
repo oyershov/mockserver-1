@@ -1,17 +1,17 @@
-HTTP/2 201
-access-control-allow-origin: *
-access-control-allow-methods: GET, POST, PUT, PATCH, DELETE
-access-control-allow-headers: Origin, X-Requested-With, Content-Type, Accept, Authorization
+HTTP/2 200
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET, POST, DELETE, PUT, PATCH, OPTIONS, HEAD
 Access-Control-Max-Age: 3600
 Access-Control-Allow-Credentials: true
+Access-Control-Expose-Headers: total
 Total: 12
 
 [
     {
-        "uid": "ID535CA9B521",
-        "first_name": "Name21",
-        "last_name": "Surname21",
-        "email": "test21@barong.io",
+        "uid": "ID535CA9B501",
+        "first_name": "Name1",
+        "last_name": "Surname1",
+        "email": "test1@barong.io",
         "region": "China",
         "klass": "IB",
         "state": "active",
@@ -21,10 +21,10 @@ Total: 12
         "updated_at": "2019-06-25T11:36:13+02:00"
     },
     {
-        "uid": "ID789CA9B522",
-        "first_name": "Name22",
-        "last_name": "Surname22",
-        "email": "test22@barong.io",
+        "uid": "ID789CA9B502",
+        "first_name": "Name2",
+        "last_name": "Surname2",
+        "email": "test2@barong.io",
         "region": "China",
         "klass": "MIB",
         "state": "pending",
@@ -34,10 +34,10 @@ Total: 12
         "updated_at": "2019-06-25T11:36:13+02:00"
     },
     {
-        "uid": "ID535CA9B523",
-        "first_name": "Name23",
-        "last_name": "Surname23",
-        "email": "test23@barong.io",
+        "uid": "ID535CA9B503",
+        "first_name": "Name3",
+        "last_name": "Surname3",
+        "email": "test3@barong.io",
         "region": "China",
         "klass": "IB",
         "state": "active",
@@ -47,10 +47,10 @@ Total: 12
         "updated_at": "2019-06-25T11:36:13+02:00"
     },
     {
-        "uid": "ID789CA9B524",
-        "first_name": "Name24",
-        "last_name": "Surname24",
-        "email": "test24@barong.io",
+        "uid": "ID789CA9B504",
+        "first_name": "Name4",
+        "last_name": "Surname4",
+        "email": "test4@barong.io",
         "region": "China",
         "klass": "MIB",
         "state": "pending",
@@ -60,10 +60,10 @@ Total: 12
         "updated_at": "2019-06-25T11:36:13+02:00"
     },
     {
-        "uid": "ID535CA9B525",
-        "first_name": "Name25",
-        "last_name": "Surname25",
-        "email": "test25@barong.io",
+        "uid": "ID535CA9B505",
+        "first_name": "Name5",
+        "last_name": "Surname5",
+        "email": "test5@barong.io",
         "region": "China",
         "klass": "IB",
         "state": "active",
@@ -73,10 +73,10 @@ Total: 12
         "updated_at": "2019-06-25T11:36:13+02:00"
     },
     {
-        "uid": "ID789CA9B526",
-        "first_name": "Name26",
-        "last_name": "Surname26",
-        "email": "test26@barong.io",
+        "uid": "ID789CA9B506",
+        "first_name": "Name6",
+        "last_name": "Surname6",
+        "email": "test6@barong.io",
         "region": "China",
         "klass": "MIB",
         "state": "pending",
@@ -86,10 +86,10 @@ Total: 12
         "updated_at": "2019-06-25T11:36:13+02:00"
     },
     {
-        "uid": "ID535CA9B527",
-        "first_name": "Name27",
-        "last_name": "Surname27",
-        "email": "test27@barong.io",
+        "uid": "ID535CA9B507",
+        "first_name": "Name7",
+        "last_name": "Surname7",
+        "email": "test7@barong.io",
         "region": "China",
         "klass": "IB",
         "state": "active",
@@ -99,10 +99,10 @@ Total: 12
         "updated_at": "2019-06-25T11:36:13+02:00"
     },
     {
-        "uid": "ID789CA9B528",
-        "first_name": "Name28",
-        "last_name": "Surname28",
-        "email": "test28@barong.io",
+        "uid": "ID789CA9B508",
+        "first_name": "Name8",
+        "last_name": "Surname8",
+        "email": "test8@barong.io",
         "region": "China",
         "klass": "MIB",
         "state": "pending",
@@ -112,10 +112,10 @@ Total: 12
         "updated_at": "2019-06-25T11:36:13+02:00"
     },
     {
-        "uid": "ID535CA9B529",
-        "first_name": "Name29",
-        "last_name": "Surname29",
-        "email": "test29@barong.io",
+        "uid": "ID535CA9B509",
+        "first_name": "Name9",
+        "last_name": "Surname9",
+        "email": "test9@barong.io",
         "region": "China",
         "klass": "IB",
         "state": "active",
@@ -125,10 +125,10 @@ Total: 12
         "updated_at": "2019-06-25T11:36:13+02:00"
     },
     {
-        "uid": "ID789CA9B530",
-        "first_name": "Name30",
-        "last_name": "Surname30",
-        "email": "test30@barong.io",
+        "uid": "ID789CA9B510",
+        "first_name": "Name10",
+        "last_name": "Surname10",
+        "email": "test10@barong.io",
         "region": "China",
         "klass": "MIB",
         "state": "pending",
@@ -138,10 +138,10 @@ Total: 12
         "updated_at": "2019-06-25T11:36:13+02:00"
     },
     {
-        "uid": "ID789CA9B531",
-        "first_name": "Name31",
-        "last_name": "Surname31",
-        "email": "test31@barong.io",
+        "uid": "ID789CA9B511",
+        "first_name": "Name11",
+        "last_name": "Surname11",
+        "email": "test11@barong.io",
         "region": "China",
         "klass": "MIB",
         "state": "pending",
@@ -151,10 +151,10 @@ Total: 12
         "updated_at": "2019-06-25T11:36:13+02:00"
     },
     {
-        "uid": "ID535CA9B532",
-        "first_name": "Name32",
-        "last_name": "Surname32",
-        "email": "test32@barong.io",
+        "uid": "ID535CA9B512",
+        "first_name": "Name12",
+        "last_name": "Surname12",
+        "email": "test12@barong.io",
         "region": "China",
         "klass": "IB",
         "state": "active",
