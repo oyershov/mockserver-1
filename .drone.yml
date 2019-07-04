@@ -35,19 +35,19 @@ steps:
       event:
         - push
 
-  - name: deploy
-    image: rubykube/mock-cloud:v0.0.1
-    environment:
-      WEBHOOK_JWT_SECRET:
-        from_secret: mockserver_webhook_secret
-      WEBHOOK_URI:
-        from_secret: mockserver_webhook_uri
-    commands:
-      - export latest_image=gcr.io/helios-stage/mock-stage:$(cat .tags)
-      - cd /home/app
-      - bundle exec rake payload:send[$latest_image,$WEBHOOK_URI]
-    when:
-      branch:
-        - customer/grx
-      event:
-        - push
+#  - name: deploy
+#    image: rubykube/mock-cloud:v0.0.1
+#    environment:
+#      WEBHOOK_JWT_SECRET:
+#        from_secret: mockserver_webhook_secret
+#      WEBHOOK_URI:
+#        from_secret: mockserver_webhook_uri
+#    commands:
+#      - export latest_image=gcr.io/helios-stage/mock-stage:$(cat .tags)
+#      - cd /home/app
+#      - bundle exec rake payload:send[$latest_image,$WEBHOOK_URI]
+#    when:
+#      branch:
+#        - customer/grx
+#      event:
+#        - push
