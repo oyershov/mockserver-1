@@ -1,0 +1,50 @@
+{
+    "May": {
+        "affiliates": "78",
+        "verified_affiliates": "47",
+        "personal_volume": "1123830",
+        "groupe_volume": "11960141",
+        "gross_commission": "165146"
+    },
+    "June": {
+        "affiliates": "90",
+        "verified_affiliates": "86",
+        "personal_volume": "1526832",
+        "groupe_volume": "13540520",
+        "gross_commission": "183130"
+    },
+    "July": {
+        "affiliates": "179",
+        "verified_affiliates": "157",
+        "personal_volume": "1963821",
+        "groupe_volume": "32342234",
+        "gross_commission": "350412"
+    },
+    "account_info": {
+      "uid": "ID535CA9B575",
+      "first_name": "Name",
+      "last_name": "Surname",
+      "email": "test@barong.io",
+      "region": "China",
+      "klass": "IB",
+      "state": "active",
+      "manager": {
+          "uid": "IB000004334",
+          "first_name": "Name1",
+          "last_name": "Surname1",
+          "email": "test1@barong.io",
+          "klass": "MIB",
+          "state": "active"
+      },
+      "referrer": {
+          "uid": "ID234234234",
+          "first_name": "Name2",
+          "last_name": "Surname2",
+          "email": "test2@barong.io",
+          "klass": "TL",
+          "state": "active"
+      },
+      "created_at": "2019-06-25T11:34:11+02:00",
+      "updated_at": "2019-06-25T11:36:13+02:00"
+    }
+}
