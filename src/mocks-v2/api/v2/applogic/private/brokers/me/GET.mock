@@ -1,25 +1,35 @@
+HTTP/2 201
+access-control-allow-origin: *
+access-control-allow-methods: GET, POST, PUT, PATCH, DELETE
+access-control-allow-headers: Origin, X-Requested-With, Content-Type, Accept, Authorization
+Access-Control-Max-Age: 3600
+Access-Control-Allow-Credentials: true
+
 {
-    "May": {
+    "metrics": [{
+        "month": "May",
+        "groupe_volume": "123.32",
+        "gross_commission": "1543534.4",
+        "personal_volume": "3123123",
+        "affiliates": "81",
+        "verified_affiliates": "34"
+    },
+    {
+        "month": "June",
         "affiliates": "78",
         "verified_affiliates": "47",
         "personal_volume": "1123830",
         "groupe_volume": "11960141",
         "gross_commission": "165146"
     },
-    "June": {
+    {
+        "month": "July",
         "affiliates": "90",
         "verified_affiliates": "86",
         "personal_volume": "1526832",
         "groupe_volume": "13540520",
         "gross_commission": "183130"
-    },
-    "July": {
-        "affiliates": "179",
-        "verified_affiliates": "157",
-        "personal_volume": "1963821",
-        "groupe_volume": "32342234",
-        "gross_commission": "350412"
-    },
+    }],
     "account_info": {
       "uid": "ID535CA9B575",
       "first_name": "Name",
