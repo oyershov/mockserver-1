@@ -1,0 +1,133 @@
+HTTP/2 200
+access-control-allow-origin: *
+access-control-allow-methods: GET, POST, PUT, PATCH, DELETE
+access-control-allow-headers: Origin, X-Requested-With, Content-Type, Accept, Authorization
+Access-Control-Max-Age: 3600
+Access-Control-Allow-Credentials: true
+
+[
+    {
+        "id": 1,
+        "type": "BrokerUserClass",
+        "klass": "TRADER",
+        "priority": 0,
+        "commission_values": ["11.0","3.0","14.0"],
+        "commission_configs": [
+            {
+                "ref_type":null,
+                "value":"11.0"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "type": "BrokerUserClass",
+        "klass": "IB",
+        "priority": 1,
+        "commission_values": ["11.0","3.0","14.0"],
+        "commission_configs": [
+            {
+                "ref_type":null,
+                "value":"3.0"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "type": "BrokerUserClass",
+        "klass": "MIB",
+        "priority": 2,
+        "commission_values": ["11.0","3.0","14.0"],
+        "commission_configs": [
+            {
+                "ref_type":null,
+                "value":"14.0"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "type": "ManagerUserClass",
+        "klass": "SE",
+        "priority": 0,
+        "commission_values": ["20.0","4.0"],
+        "commission_configs": [
+            {
+                "ref_type": "broker",
+                "value": "20.0"
+            },
+            {
+                "ref_type": "manager",
+                "value": "4.0"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "type": "ManagerUserClass",
+        "klass": "TL",
+        "priority": 1,
+        "commission_values": ["9.0","8.0"],
+        "commission_configs": [
+            {
+                "ref_type": "broker",
+                "value": "9.0"
+            },
+            {
+                "ref_type": "manager",
+                "value": "8.0"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "type": "ManagerUserClass",
+        "klass": "SM",
+        "priority": 2,
+        "commission_values": ["24.0","14.0"],
+        "commission_configs": [
+            {
+                "ref_type": "broker",
+                "value": "24.0"
+            },
+            {
+                "ref_type": "manager",
+                "value": "14.0"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "type": "ManagerUserClass",
+        "klass": "RM",
+        "priority": 3,
+        "commission_values": ["23.0","17.0"],
+        "commission_configs": [
+            {
+                "ref_type": "broker",
+                "value": "23.0"
+            },
+            {
+                "ref_type": "manager",
+                "value": "17.0"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "type": "ManagerUserClass",
+        "klass": "TM",
+        "priority": 4,
+        "commission_values": ["13.0","14.0"],
+        "commission_configs": [
+            {
+                "ref_type": "broker",
+                "value": "13.0"
+            },
+            {
+                "ref_type": "manager",
+                "value": "14.0"
+            }
+        ]
+    }
+]
