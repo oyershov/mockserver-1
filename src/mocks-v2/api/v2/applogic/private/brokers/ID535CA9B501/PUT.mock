@@ -12,7 +12,7 @@ access-control-allow-headers: Origin, X-Requested-With, Content-Type, Accept, Au
   "klass": "IB",
   "state": "active",
   "manager": {
-      "uid": "SuperID changed",
+      "uid": "ID2342344544",
       "first_name": "Name2",
       "last_name": "Surname2",
       "email": "test2@barong.io",

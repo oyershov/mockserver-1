@@ -7,7 +7,7 @@ access-control-allow-headers: Origin, X-Requested-With, Content-Type, Accept, Au
     "uid": "ID535CA9B521",
     "first_name": "Name21",
     "last_name": "Surname21",
-    "klass": "Klass changed",
+    "klass": "RM",
     "region": "China",
     "email": "test21@barong.io",
     "manager": {
