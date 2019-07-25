@@ -28,5 +28,10 @@ access-control-allow-headers: Origin, X-Requested-With, Content-Type, Accept, Au
       "state": "active"
   },
   "created_at": "2019-06-25T11:34:11+02:00",
-  "updated_at": "2019-06-25T11:36:13+02:00"
+  "updated_at": "2019-06-25T11:36:13+02:00",
+  "affiliated_traders": {
+      "TRADER": 0,
+      "IB": 1,
+      "MIB": 1
+  }
 }

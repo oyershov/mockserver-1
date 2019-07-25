@@ -5,8 +5,8 @@ access-control-allow-headers: Origin, X-Requested-With, Content-Type, Accept, Au
 
 {
     "email": "john@barong.io",
-    "level": 2,
-    "otp": false,
+    "level": 1,
+    "otp": true,
     "role": "admin",
     "state": "active",
     "uid": "ID787E383938"
