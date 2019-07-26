@@ -18,7 +18,61 @@ Total: 12
         "referrer_uid": "IB000004334",
         "manager_uid": "ID234234234",
         "created_at": "2019-06-25T11:34:11+02:00",
-        "updated_at": "2019-06-25T11:36:13+02:00"
+        "updated_at": "2019-06-25T11:36:13+02:00",
+        "affiliated_traders": {
+            "TRADER": 0,
+            "IB": 1,
+            "MIB": 1
+        },
+        "group_volume_last_months": {
+            "5": 123.3,
+            "6": 234.4,
+            "7": 345.5
+        },
+        "personal_volume_last_months": {
+            "5": 123.3,
+            "6": 234.4,
+            "7": 345.5
+        },
+        "group_commissions_last_months": {
+            "5": 123.3,
+            "6": 234.4,
+            "7": 345.5
+        },
+        "level_1_size": 5,
+        "network_size": 2,
+        "brokers_level_1": {
+            "MIB": [
+                {
+                    "uid": "ID27AD2EFA382818879222",
+                    "network_size": 2,
+                    "trading_fees": {
+                        "7": "30.0"
+                    },
+                    "trading_volume": {
+                        "5": "220.0",
+                        "6": "271.0",
+                        "7": "433.0"
+                    },
+                    "last_update": "2019-07-22T11:41:31.000Z"
+                }
+            ],
+            "IB": [
+                {
+                    "uid": "ID34C4279D004AB4479E7F",
+                    "network_size": 0,
+                    "trading_fees": {
+                        "7": 0
+                    },
+                    "trading_volume": {
+                        "5": "220.0",
+                        "6": "271.0",
+                        "7": "433.0"
+                    },
+                    "last_update": "2019-07-22T11:41:31.000Z"
+                }
+            ]
+        }
     },
     {
         "uid": "ID789CA9B502",
@@ -31,7 +85,61 @@ Total: 12
         "referrer_uid": "IB000004365",
         "manager_uid": "ID2342344544",
         "created_at": "2019-06-25T11:34:11+02:00",
-        "updated_at": "2019-06-25T11:36:13+02:00"
+        "updated_at": "2019-06-25T11:36:13+02:00",
+        "affiliated_traders": {
+            "TRADER": 0,
+            "IB": 1,
+            "MIB": 1
+        },
+        "group_volume_last_months": {
+            "5": 123.3,
+            "6": 234.4,
+            "7": 345.5
+        },
+        "personal_volume_last_months": {
+            "5": 123.3,
+            "6": 234.4,
+            "7": 345.5
+        },
+        "group_commissions_last_months": {
+            "5": 123.3,
+            "6": 234.4,
+            "7": 345.5
+        },
+        "level_1_size": 5,
+        "network_size": 2,
+        "brokers_level_1": {
+            "MIB": [
+                {
+                    "uid": "ID27AD2EFA382818879222",
+                    "network_size": 2,
+                    "trading_fees": {
+                        "7": "30.0"
+                    },
+                    "trading_volume": {
+                        "5": "220.0",
+                        "6": "271.0",
+                        "7": "433.0"
+                    },
+                    "last_update": "2019-07-22T11:41:31.000Z"
+                }
+            ],
+            "IB": [
+                {
+                    "uid": "ID34C4279D004AB4479E7F",
+                    "network_size": 0,
+                    "trading_fees": {
+                        "7": 0
+                    },
+                    "trading_volume": {
+                        "5": "220.0",
+                        "6": "271.0",
+                        "7": "433.0"
+                    },
+                    "last_update": "2019-07-22T11:41:31.000Z"
+                }
+            ]
+        }
     },
     {
         "uid": "ID535CA9B503",
@@ -44,7 +152,61 @@ Total: 12
         "referrer_uid": "IB000004334",
         "manager_uid": "ID234234234",
         "created_at": "2019-06-25T11:34:11+02:00",
-        "updated_at": "2019-06-25T11:36:13+02:00"
+        "updated_at": "2019-06-25T11:36:13+02:00",
+        "affiliated_traders": {
+            "TRADER": 0,
+            "IB": 1,
+            "MIB": 1
+        },
+        "group_volume_last_months": {
+            "5": 123.3,
+            "6": 234.4,
+            "7": 345.5
+        },
+        "personal_volume_last_months": {
+            "5": 123.3,
+            "6": 234.4,
+            "7": 345.5
+        },
+        "group_commissions_last_months": {
+            "5": 123.3,
+            "6": 234.4,
+            "7": 345.5
+        },
+        "level_1_size": 5,
+        "network_size": 2,
+        "brokers_level_1": {
+            "MIB": [
+                {
+                    "uid": "ID27AD2EFA382818879222",
+                    "network_size": 2,
+                    "trading_fees": {
+                        "7": "30.0"
+                    },
+                    "trading_volume": {
+                        "5": "220.0",
+                        "6": "271.0",
+                        "7": "433.0"
+                    },
+                    "last_update": "2019-07-22T11:41:31.000Z"
+                }
+            ],
+            "IB": [
+                {
+                    "uid": "ID34C4279D004AB4479E7F",
+                    "network_size": 0,
+                    "trading_fees": {
+                        "7": 0
+                    },
+                    "trading_volume": {
+                        "5": "220.0",
+                        "6": "271.0",
+                        "7": "433.0"
+                    },
+                    "last_update": "2019-07-22T11:41:31.000Z"
+                }
+            ]
+        }
     },
     {
         "uid": "ID789CA9B504",
@@ -57,7 +219,61 @@ Total: 12
         "referrer_uid": "IB000004365",
         "manager_uid": "ID2342344544",
         "created_at": "2019-06-25T11:34:11+02:00",
-        "updated_at": "2019-06-25T11:36:13+02:00"
+        "updated_at": "2019-06-25T11:36:13+02:00",
+        "affiliated_traders": {
+            "TRADER": 0,
+            "IB": 1,
+            "MIB": 1
+        },
+        "group_volume_last_months": {
+            "5": 123.3,
+            "6": 234.4,
+            "7": 345.5
+        },
+        "personal_volume_last_months": {
+            "5": 123.3,
+            "6": 234.4,
+            "7": 345.5
+        },
+        "group_commissions_last_months": {
+            "5": 123.3,
+            "6": 234.4,
+            "7": 345.5
+        },
+        "level_1_size": 5,
+        "network_size": 2,
+        "brokers_level_1": {
+            "MIB": [
+                {
+                    "uid": "ID27AD2EFA382818879222",
+                    "network_size": 2,
+                    "trading_fees": {
+                        "7": "30.0"
+                    },
+                    "trading_volume": {
+                        "5": "220.0",
+                        "6": "271.0",
+                        "7": "433.0"
+                    },
+                    "last_update": "2019-07-22T11:41:31.000Z"
+                }
+            ],
+            "IB": [
+                {
+                    "uid": "ID34C4279D004AB4479E7F",
+                    "network_size": 0,
+                    "trading_fees": {
+                        "7": 0
+                    },
+                    "trading_volume": {
+                        "5": "220.0",
+                        "6": "271.0",
+                        "7": "433.0"
+                    },
+                    "last_update": "2019-07-22T11:41:31.000Z"
+                }
+            ]
+        }
     },
     {
         "uid": "ID535CA9B505",
@@ -70,7 +286,61 @@ Total: 12
         "referrer_uid": "IB000004334",
         "manager_uid": "ID234234234",
         "created_at": "2019-06-25T11:34:11+02:00",
-        "updated_at": "2019-06-25T11:36:13+02:00"
+        "updated_at": "2019-06-25T11:36:13+02:00",
+        "affiliated_traders": {
+            "TRADER": 0,
+            "IB": 1,
+            "MIB": 1
+        },
+        "group_volume_last_months": {
+            "5": 123.3,
+            "6": 234.4,
+            "7": 345.5
+        },
+        "personal_volume_last_months": {
+            "5": 123.3,
+            "6": 234.4,
+            "7": 345.5
+        },
+        "group_commissions_last_months": {
+            "5": 123.3,
+            "6": 234.4,
+            "7": 345.5
+        },
+        "level_1_size": 5,
+        "network_size": 2,
+        "brokers_level_1": {
+            "MIB": [
+                {
+                    "uid": "ID27AD2EFA382818879222",
+                    "network_size": 2,
+                    "trading_fees": {
+                        "7": "30.0"
+                    },
+                    "trading_volume": {
+                        "5": "220.0",
+                        "6": "271.0",
+                        "7": "433.0"
+                    },
+                    "last_update": "2019-07-22T11:41:31.000Z"
+                }
+            ],
+            "IB": [
+                {
+                    "uid": "ID34C4279D004AB4479E7F",
+                    "network_size": 0,
+                    "trading_fees": {
+                        "7": 0
+                    },
+                    "trading_volume": {
+                        "5": "220.0",
+                        "6": "271.0",
+                        "7": "433.0"
+                    },
+                    "last_update": "2019-07-22T11:41:31.000Z"
+                }
+            ]
+        }
     },
     {
         "uid": "ID789CA9B506",
@@ -83,7 +353,61 @@ Total: 12
         "referrer_uid": "IB000004365",
         "manager_uid": "ID2342344544",
         "created_at": "2019-06-25T11:34:11+02:00",
-        "updated_at": "2019-06-25T11:36:13+02:00"
+        "updated_at": "2019-06-25T11:36:13+02:00",
+        "affiliated_traders": {
+            "TRADER": 0,
+            "IB": 1,
+            "MIB": 1
+        },
+        "group_volume_last_months": {
+            "5": 123.3,
+            "6": 234.4,
+            "7": 345.5
+        },
+        "personal_volume_last_months": {
+            "5": 123.3,
+            "6": 234.4,
+            "7": 345.5
+        },
+        "group_commissions_last_months": {
+            "5": 123.3,
+            "6": 234.4,
+            "7": 345.5
+        },
+        "level_1_size": 5,
+        "network_size": 2,
+        "brokers_level_1": {
+            "MIB": [
+                {
+                    "uid": "ID27AD2EFA382818879222",
+                    "network_size": 2,
+                    "trading_fees": {
+                        "7": "30.0"
+                    },
+                    "trading_volume": {
+                        "5": "220.0",
+                        "6": "271.0",
+                        "7": "433.0"
+                    },
+                    "last_update": "2019-07-22T11:41:31.000Z"
+                }
+            ],
+            "IB": [
+                {
+                    "uid": "ID34C4279D004AB4479E7F",
+                    "network_size": 0,
+                    "trading_fees": {
+                        "7": 0
+                    },
+                    "trading_volume": {
+                        "5": "220.0",
+                        "6": "271.0",
+                        "7": "433.0"
+                    },
+                    "last_update": "2019-07-22T11:41:31.000Z"
+                }
+            ]
+        }
     },
     {
         "uid": "ID535CA9B507",
@@ -96,7 +420,61 @@ Total: 12
         "referrer_uid": "IB000004334",
         "manager_uid": "ID234234234",
         "created_at": "2019-06-25T11:34:11+02:00",
-        "updated_at": "2019-06-25T11:36:13+02:00"
+        "updated_at": "2019-06-25T11:36:13+02:00",
+        "affiliated_traders": {
+            "TRADER": 0,
+            "IB": 1,
+            "MIB": 1
+        },
+        "group_volume_last_months": {
+            "5": 123.3,
+            "6": 234.4,
+            "7": 345.5
+        },
+        "personal_volume_last_months": {
+            "5": 123.3,
+            "6": 234.4,
+            "7": 345.5
+        },
+        "group_commissions_last_months": {
+            "5": 123.3,
+            "6": 234.4,
+            "7": 345.5
+        },
+        "level_1_size": 5,
+        "network_size": 2,
+        "brokers_level_1": {
+            "MIB": [
+                {
+                    "uid": "ID27AD2EFA382818879222",
+                    "network_size": 2,
+                    "trading_fees": {
+                        "7": "30.0"
+                    },
+                    "trading_volume": {
+                        "5": "220.0",
+                        "6": "271.0",
+                        "7": "433.0"
+                    },
+                    "last_update": "2019-07-22T11:41:31.000Z"
+                }
+            ],
+            "IB": [
+                {
+                    "uid": "ID34C4279D004AB4479E7F",
+                    "network_size": 0,
+                    "trading_fees": {
+                        "7": 0
+                    },
+                    "trading_volume": {
+                        "5": "220.0",
+                        "6": "271.0",
+                        "7": "433.0"
+                    },
+                    "last_update": "2019-07-22T11:41:31.000Z"
+                }
+            ]
+        }
     },
     {
         "uid": "ID789CA9B508",
@@ -109,7 +487,61 @@ Total: 12
         "referrer_uid": "IB000004365",
         "manager_uid": "ID2342344544",
         "created_at": "2019-06-25T11:34:11+02:00",
-        "updated_at": "2019-06-25T11:36:13+02:00"
+        "updated_at": "2019-06-25T11:36:13+02:00",
+        "affiliated_traders": {
+            "TRADER": 0,
+            "IB": 1,
+            "MIB": 1
+        },
+        "group_volume_last_months": {
+            "5": 123.3,
+            "6": 234.4,
+            "7": 345.5
+        },
+        "personal_volume_last_months": {
+            "5": 123.3,
+            "6": 234.4,
+            "7": 345.5
+        },
+        "group_commissions_last_months": {
+            "5": 123.3,
+            "6": 234.4,
+            "7": 345.5
+        },
+        "level_1_size": 5,
+        "network_size": 2,
+        "brokers_level_1": {
+            "MIB": [
+                {
+                    "uid": "ID27AD2EFA382818879222",
+                    "network_size": 2,
+                    "trading_fees": {
+                        "7": "30.0"
+                    },
+                    "trading_volume": {
+                        "5": "220.0",
+                        "6": "271.0",
+                        "7": "433.0"
+                    },
+                    "last_update": "2019-07-22T11:41:31.000Z"
+                }
+            ],
+            "IB": [
+                {
+                    "uid": "ID34C4279D004AB4479E7F",
+                    "network_size": 0,
+                    "trading_fees": {
+                        "7": 0
+                    },
+                    "trading_volume": {
+                        "5": "220.0",
+                        "6": "271.0",
+                        "7": "433.0"
+                    },
+                    "last_update": "2019-07-22T11:41:31.000Z"
+                }
+            ]
+        }
     },
     {
         "uid": "ID535CA9B509",
@@ -122,7 +554,61 @@ Total: 12
         "referrer_uid": "IB000004334",
         "manager_uid": "ID234234234",
         "created_at": "2019-06-25T11:34:11+02:00",
-        "updated_at": "2019-06-25T11:36:13+02:00"
+        "updated_at": "2019-06-25T11:36:13+02:00",
+        "affiliated_traders": {
+            "TRADER": 0,
+            "IB": 1,
+            "MIB": 1
+        },
+        "group_volume_last_months": {
+            "5": 123.3,
+            "6": 234.4,
+            "7": 345.5
+        },
+        "personal_volume_last_months": {
+            "5": 123.3,
+            "6": 234.4,
+            "7": 345.5
+        },
+        "group_commissions_last_months": {
+            "5": 123.3,
+            "6": 234.4,
+            "7": 345.5
+        },
+        "level_1_size": 5,
+        "network_size": 2,
+        "brokers_level_1": {
+            "MIB": [
+                {
+                    "uid": "ID27AD2EFA382818879222",
+                    "network_size": 2,
+                    "trading_fees": {
+                        "7": "30.0"
+                    },
+                    "trading_volume": {
+                        "5": "220.0",
+                        "6": "271.0",
+                        "7": "433.0"
+                    },
+                    "last_update": "2019-07-22T11:41:31.000Z"
+                }
+            ],
+            "IB": [
+                {
+                    "uid": "ID34C4279D004AB4479E7F",
+                    "network_size": 0,
+                    "trading_fees": {
+                        "7": 0
+                    },
+                    "trading_volume": {
+                        "5": "220.0",
+                        "6": "271.0",
+                        "7": "433.0"
+                    },
+                    "last_update": "2019-07-22T11:41:31.000Z"
+                }
+            ]
+        }
     },
     {
         "uid": "ID789CA9B510",
@@ -135,7 +621,61 @@ Total: 12
         "referrer_uid": "IB000004365",
         "manager_uid": "ID2342344544",
         "created_at": "2019-06-25T11:34:11+02:00",
-        "updated_at": "2019-06-25T11:36:13+02:00"
+        "updated_at": "2019-06-25T11:36:13+02:00",
+        "affiliated_traders": {
+            "TRADER": 0,
+            "IB": 1,
+            "MIB": 1
+        },
+        "group_volume_last_months": {
+            "5": 123.3,
+            "6": 234.4,
+            "7": 345.5
+        },
+        "personal_volume_last_months": {
+            "5": 123.3,
+            "6": 234.4,
+            "7": 345.5
+        },
+        "group_commissions_last_months": {
+            "5": 123.3,
+            "6": 234.4,
+            "7": 345.5
+        },
+        "level_1_size": 5,
+        "network_size": 2,
+        "brokers_level_1": {
+            "MIB": [
+                {
+                    "uid": "ID27AD2EFA382818879222",
+                    "network_size": 2,
+                    "trading_fees": {
+                        "7": "30.0"
+                    },
+                    "trading_volume": {
+                        "5": "220.0",
+                        "6": "271.0",
+                        "7": "433.0"
+                    },
+                    "last_update": "2019-07-22T11:41:31.000Z"
+                }
+            ],
+            "IB": [
+                {
+                    "uid": "ID34C4279D004AB4479E7F",
+                    "network_size": 0,
+                    "trading_fees": {
+                        "7": 0
+                    },
+                    "trading_volume": {
+                        "5": "220.0",
+                        "6": "271.0",
+                        "7": "433.0"
+                    },
+                    "last_update": "2019-07-22T11:41:31.000Z"
+                }
+            ]
+        }
     },
     {
         "uid": "ID789CA9B511",
@@ -148,7 +688,61 @@ Total: 12
         "referrer_uid": "IB000004365",
         "manager_uid": "ID2342344544",
         "created_at": "2019-06-25T11:34:11+02:00",
-        "updated_at": "2019-06-25T11:36:13+02:00"
+        "updated_at": "2019-06-25T11:36:13+02:00",
+        "affiliated_traders": {
+            "TRADER": 0,
+            "IB": 1,
+            "MIB": 1
+        },
+        "group_volume_last_months": {
+            "5": 123.3,
+            "6": 234.4,
+            "7": 345.5
+        },
+        "personal_volume_last_months": {
+            "5": 123.3,
+            "6": 234.4,
+            "7": 345.5
+        },
+        "group_commissions_last_months": {
+            "5": 123.3,
+            "6": 234.4,
+            "7": 345.5
+        },
+        "level_1_size": 5,
+        "network_size": 2,
+        "brokers_level_1": {
+            "MIB": [
+                {
+                    "uid": "ID27AD2EFA382818879222",
+                    "network_size": 2,
+                    "trading_fees": {
+                        "7": "30.0"
+                    },
+                    "trading_volume": {
+                        "5": "220.0",
+                        "6": "271.0",
+                        "7": "433.0"
+                    },
+                    "last_update": "2019-07-22T11:41:31.000Z"
+                }
+            ],
+            "IB": [
+                {
+                    "uid": "ID34C4279D004AB4479E7F",
+                    "network_size": 0,
+                    "trading_fees": {
+                        "7": 0
+                    },
+                    "trading_volume": {
+                        "5": "220.0",
+                        "6": "271.0",
+                        "7": "433.0"
+                    },
+                    "last_update": "2019-07-22T11:41:31.000Z"
+                }
+            ]
+        }
     },
     {
         "uid": "ID535CA9B512",
@@ -161,6 +755,60 @@ Total: 12
         "referrer_uid": "IB000004334",
         "manager_uid": "ID234234234",
         "created_at": "2019-06-25T11:34:11+02:00",
-        "updated_at": "2019-06-25T11:36:13+02:00"
+        "updated_at": "2019-06-25T11:36:13+02:00",
+        "affiliated_traders": {
+            "TRADER": 0,
+            "IB": 1,
+            "MIB": 1
+        },
+        "group_volume_last_months": {
+            "5": 123.3,
+            "6": 234.4,
+            "7": 345.5
+        },
+        "personal_volume_last_months": {
+            "5": 123.3,
+            "6": 234.4,
+            "7": 345.5
+        },
+        "group_commissions_last_months": {
+            "5": 123.3,
+            "6": 234.4,
+            "7": 345.5
+        },
+        "level_1_size": 5,
+        "network_size": 2,
+        "brokers_level_1": {
+            "MIB": [
+                {
+                    "uid": "ID27AD2EFA382818879222",
+                    "network_size": 2,
+                    "trading_fees": {
+                        "7": "30.0"
+                    },
+                    "trading_volume": {
+                        "5": "220.0",
+                        "6": "271.0",
+                        "7": "433.0"
+                    },
+                    "last_update": "2019-07-22T11:41:31.000Z"
+                }
+            ],
+            "IB": [
+                {
+                    "uid": "ID34C4279D004AB4479E7F",
+                    "network_size": 0,
+                    "trading_fees": {
+                        "7": 0
+                    },
+                    "trading_volume": {
+                        "5": "220.0",
+                        "6": "271.0",
+                        "7": "433.0"
+                    },
+                    "last_update": "2019-07-22T11:41:31.000Z"
+                }
+            ]
+        }
     }
 ]

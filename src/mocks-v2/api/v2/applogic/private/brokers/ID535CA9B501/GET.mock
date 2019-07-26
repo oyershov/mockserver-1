@@ -4,34 +4,83 @@ access-control-allow-methods: GET, POST, PUT, PATCH, DELETE
 access-control-allow-headers: Origin, X-Requested-With, Content-Type, Accept, Authorization
 
 {
-  "uid": "ID535CA9B501",
-  "first_name": "Name1",
-  "last_name": "Surname1",
-  "email": "test1@barong.io",
-  "region": "China",
-  "klass": "IB",
-  "state": "active",
-  "manager": {
-      "uid": "ID789CA9B502",
-      "first_name": "Name2",
-      "last_name": "Surname2",
-      "email": "test2@barong.io",
-      "klass": "MIB",
-      "state": "active"
-  },
-  "referrer": {
-      "uid": "ID535CA9B503",
-      "first_name": "Name3",
-      "last_name": "Surname3",
-      "email": "test3@barong.io",
-      "klass": "TL",
-      "state": "active"
-  },
-  "created_at": "2019-06-25T11:34:11+02:00",
-  "updated_at": "2019-06-25T11:36:13+02:00",
-  "affiliated_traders": {
-      "TRADER": 0,
-      "IB": 1,
-      "MIB": 1
-  }
+    "uid": "ID535CA9B501",
+    "first_name": "Name1",
+    "last_name": "Surname1",
+    "email": "test1@barong.io",
+    "region": "China",
+    "klass": "IB",
+    "state": "active",
+    "manager": {
+        "uid": "ID789CA9B502",
+        "first_name": "Name2",
+        "last_name": "Surname2",
+        "email": "test2@barong.io",
+        "klass": "MIB",
+        "state": "active"
+    },
+    "referrer": {
+        "uid": "ID535CA9B503",
+        "first_name": "Name3",
+        "last_name": "Surname3",
+        "email": "test3@barong.io",
+        "klass": "TL",
+        "state": "active"
+    },
+    "created_at": "2019-06-25T11:34:11+02:00",
+    "updated_at": "2019-06-25T11:36:13+02:00",
+    "affiliated_traders": {
+        "TRADER": 0,
+        "IB": 1,
+        "MIB": 1
+    },
+    "group_volume_last_months": {
+        "5": 123.3,
+        "6": 234.4,
+        "7": 345.5
+    },
+    "personal_volume_last_months": {
+        "5": 123.3,
+        "6": 234.4,
+        "7": 345.5
+    },
+    "group_commissions_last_months": {
+        "5": 123.3,
+        "6": 234.4,
+        "7": 345.5
+    },
+    "level_1_size": 5,
+    "network_size": 2,
+    "brokers_level_1": {
+        "MIB": [
+            {
+                "uid": "ID27AD2EFA382818879222",
+                "network_size": 2,
+                "trading_fees": {
+                    "7": "30.0"
+                },
+                "trading_volume": {
+                    "5": "220.0",
+                    "6": "271.0",
+                    "7": "433.0"
+                },
+                "last_update": "2019-07-22T11:41:31.000Z"
+            }
+        ],
+        "IB": [
+            {
+                "uid": "ID34C4279D004AB4479E7F",
+                "network_size": 0,
+                "trading_fees": {
+                    "7": 0
+                },
+                "trading_volume": {
+                    "5": "220.0",
+                    "6": "271.0",
+                    "7": "433.0"
+                },
+                "last_update": "2019-07-22T11:41:31.000Z"
+            }
+        ]
+    }
 }
