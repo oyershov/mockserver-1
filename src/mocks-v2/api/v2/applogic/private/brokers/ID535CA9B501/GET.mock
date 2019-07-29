@@ -34,20 +34,35 @@ access-control-allow-headers: Origin, X-Requested-With, Content-Type, Accept, Au
         "IB": 1,
         "MIB": 1
     },
-    "group_volume_last_months": {
-        "5": 123.3,
-        "6": 234.4,
-        "7": 345.5
+    "new_affiliates_last_months": {
+        "5": 1,
+        "6": 1,
+        "7": 0
+    },
+    "new_kyc_verified_last_months": {
+        "5": 0,
+        "6": 0,
+        "7": 0
     },
     "personal_volume_last_months": {
-        "5": 123.3,
-        "6": 234.4,
-        "7": 345.5
+        "5": "149.0",
+        "6": "124.0",
+        "7": 0
     },
-    "group_commissions_last_months": {
-        "5": 123.3,
-        "6": 234.4,
-        "7": 345.5
+    "level_1_volume_last_months": {
+        "5": "136.0",
+        "6": "133.0",
+        "7": "158.0"
+    },
+    "group_volume_last_months": {
+        "5": "220.0",
+        "6": "271.0",
+        "7": "433.0"
+    },
+    "active_traders_last_months": {
+        "5": 2,
+        "6": 4,
+        "7": 4
     },
     "level_1_size": 14,
     "network_size": 132,
