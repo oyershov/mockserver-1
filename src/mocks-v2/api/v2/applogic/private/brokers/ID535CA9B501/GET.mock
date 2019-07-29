@@ -59,6 +59,15 @@ access-control-allow-headers: Origin, X-Requested-With, Content-Type, Accept, Au
         "6": "271.0",
         "7": "433.0"
     },
+    "group_volume_last_days": {
+        "04-07-2019": "87.0",
+        "11-07-2019": "83.0",
+        "12-07-2019": "60.0",
+        "18-07-2019": "45.0",
+        "19-07-2019": "64.0",
+        "21-07-2019": "14.0",
+        "22-07-2019": "80.0"
+    },
     "active_traders_last_months": {
         "5": 2,
         "6": 4,
