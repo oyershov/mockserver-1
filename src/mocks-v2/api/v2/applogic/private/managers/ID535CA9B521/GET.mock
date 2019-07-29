@@ -14,5 +14,6 @@ access-control-allow-headers: Origin, X-Requested-With, Content-Type, Accept, Au
     "referrer": null,
     "state": "active",
     "created_at": "2019-06-25T11:34:11+02:00",
-    "updated_at": "2019-06-25T11:36:13+02:00"
+    "updated_at": "2019-06-25T11:36:13+02:00",
+    "level_1_size": 11
 }
