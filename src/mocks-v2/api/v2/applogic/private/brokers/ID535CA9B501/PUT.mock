@@ -49,8 +49,8 @@ access-control-allow-headers: Origin, X-Requested-With, Content-Type, Accept, Au
         "6": 234.4,
         "7": 345.5
     },
-    "level_1_size": 5,
-    "network_size": 2,
+    "level_1_size": 14,
+    "network_size": 132,
     "brokers_level_1": {
         "MIB": [
             {
