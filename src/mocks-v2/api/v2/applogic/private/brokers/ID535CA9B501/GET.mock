@@ -75,192 +75,68 @@ access-control-allow-headers: Origin, X-Requested-With, Content-Type, Accept, Au
     },
     "level_1_size": 14,
     "network_size": 132,
-    "brokers_level_1": {
-        "MIB": [
-            {
-                "uid": "ID535CA9B501",
-                "network_size": 2,
-                "trading_fees": {
-                    "7": "30.0"
+    "brokers_level_1": [
+        [
+            "IB",
+            [
+                {
+                    "uid": "ID291B1F231B8B19BAD7A2",
+                    "network_size": 2,
+                    "trading_fees": {
+                        "8": 0
+                    },
+                    "trading_volume": {
+                        "6": "1063.0",
+                        "7": "936.0",
+                        "8": 0
+                    },
+                    "last_update": "2019-07-26T12:20:44.000Z"
                 },
-                "trading_volume": {
-                    "5": "220.0",
-                    "6": "271.0",
-                    "7": "433.0"
+                {
+                    "uid": "ID7D223C0931DFB176AFEC",
+                    "network_size": 2,
+                    "trading_fees": {
+                        "8": 0
+                    },
+                    "trading_volume": {
+                        "6": "1063.0",
+                        "7": "936.0",
+                        "8": 0
+                    },
+                    "last_update": "2019-07-26T12:20:44.000Z"
                 },
-                "last_update": "2019-07-22T11:41:31.000Z"
-            },
-            {
-                "uid": "ID27AD2EFA382818879222",
-                "network_size": 2,
-                "trading_fees": {
-                    "7": "30.0"
-                },
-                "trading_volume": {
-                    "5": "220.0",
-                    "6": "271.0",
-                    "7": "433.0"
-                },
-                "last_update": "2019-07-22T11:41:31.000Z"
-            },
-            {
-                "uid": "ID27AD2EFA382818879222",
-                "network_size": 2,
-                "trading_fees": {
-                    "7": "30.0"
-                },
-                "trading_volume": {
-                    "5": "220.0",
-                    "6": "271.0",
-                    "7": "433.0"
-                },
-                "last_update": "2019-07-22T11:41:31.000Z"
-            },
-            {
-                "uid": "ID27AD2EFA382818879222",
-                "network_size": 2,
-                "trading_fees": {
-                    "7": "30.0"
-                },
-                "trading_volume": {
-                    "5": "220.0",
-                    "6": "271.0",
-                    "7": "433.0"
-                },
-                "last_update": "2019-07-22T11:41:31.000Z"
-            },
-            {
-                "uid": "ID27AD2EFA382818879222",
-                "network_size": 2,
-                "trading_fees": {
-                    "7": "30.0"
-                },
-                "trading_volume": {
-                    "5": "220.0",
-                    "6": "271.0",
-                    "7": "433.0"
-                },
-                "last_update": "2019-07-22T11:41:31.000Z"
-            },
-            {
-                "uid": "ID27AD2EFA382818879222",
-                "network_size": 2,
-                "trading_fees": {
-                    "7": "30.0"
-                },
-                "trading_volume": {
-                    "5": "220.0",
-                    "6": "271.0",
-                    "7": "433.0"
-                },
-                "last_update": "2019-07-22T11:41:31.000Z"
-            }
+                {
+                    "uid": "IDAAD01DE2AACBAD66D8DE",
+                    "network_size": 1,
+                    "trading_fees": {
+                        "8": 0
+                    },
+                    "trading_volume": {
+                        "6": "1063.0",
+                        "7": "936.0",
+                        "8": 0
+                    },
+                    "last_update": "2019-07-26T12:20:44.000Z"
+                }
+            ]
         ],
-        "IB": [
-            {
-                "uid": "ID535CA9B501",
-                "network_size": 0,
-                "trading_fees": {
-                    "7": 0
-                },
-                "trading_volume": {
-                    "5": "220.0",
-                    "6": "271.0",
-                    "7": "433.0"
-                },
-                "last_update": "2019-07-22T11:41:31.000Z"
-            },
-            {
-                "uid": "ID34C4279D004AB4479E7F",
-                "network_size": 0,
-                "trading_fees": {
-                    "7": 0
-                },
-                "trading_volume": {
-                    "5": "220.0",
-                    "6": "271.0",
-                    "7": "433.0"
-                },
-                "last_update": "2019-07-22T11:41:31.000Z"
-            },
-            {
-                "uid": "ID34C4279D004AB4479E7F",
-                "network_size": 0,
-                "trading_fees": {
-                    "7": 0
-                },
-                "trading_volume": {
-                    "5": "220.0",
-                    "6": "271.0",
-                    "7": "433.0"
-                },
-                "last_update": "2019-07-22T11:41:31.000Z"
-            },
-            {
-                "uid": "ID34C4279D004AB4479E7F",
-                "network_size": 0,
-                "trading_fees": {
-                    "7": 0
-                },
-                "trading_volume": {
-                    "5": "220.0",
-                    "6": "271.0",
-                    "7": "433.0"
-                },
-                "last_update": "2019-07-22T11:41:31.000Z"
-            },
-            {
-                "uid": "ID34C4279D004AB4479E7F",
-                "network_size": 0,
-                "trading_fees": {
-                    "7": 0
-                },
-                "trading_volume": {
-                    "5": "220.0",
-                    "6": "271.0",
-                    "7": "433.0"
-                },
-                "last_update": "2019-07-22T11:41:31.000Z"
-            },
-            {
-                "uid": "ID34C4279D004AB4479E7F",
-                "network_size": 0,
-                "trading_fees": {
-                    "7": 0
-                },
-                "trading_volume": {
-                    "5": "220.0",
-                    "6": "271.0",
-                    "7": "433.0"
-                },
-                "last_update": "2019-07-22T11:41:31.000Z"
-            },
-            {
-                "uid": "ID34C4279D004AB4479E7F",
-                "network_size": 0,
-                "trading_fees": {
-                    "7": 0
-                },
-                "trading_volume": {
-                    "5": "220.0",
-                    "6": "271.0",
-                    "7": "433.0"
-                },
-                "last_update": "2019-07-22T11:41:31.000Z"
-            },
-            {
-                "uid": "ID34C4279D004AB4479E7F",
-                "network_size": 0,
-                "trading_fees": {
-                    "7": 0
-                },
-                "trading_volume": {
-                    "5": "220.0",
-                    "6": "271.0",
-                    "7": "433.0"
-                },
-                "last_update": "2019-07-22T11:41:31.000Z"
-            }
+        [
+            "MIB",
+            [
+                {
+                    "uid": "ID9B8FA1C07F956F4EC9EA",
+                    "network_size": 3,
+                    "trading_fees": {
+                        "8": 0
+                    },
+                    "trading_volume": {
+                        "6": "1063.0",
+                        "7": "936.0",
+                        "8": 0
+                    },
+                    "last_update": "2019-07-26T12:20:44.000Z"
+                }
+            ]
         ]
-    }
+    ]
 }
