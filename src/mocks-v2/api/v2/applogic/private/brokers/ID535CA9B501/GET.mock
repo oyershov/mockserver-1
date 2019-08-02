@@ -61,7 +61,7 @@ access-control-allow-headers: Origin, X-Requested-With, Content-Type, Accept, Au
     },
     "group_volume_daily": {
         "04-07-2019": "87.0",
-        "11-07-2019": "83.0",
+        "11-07-2019": "112.0",
         "12-07-2019": "60.0",
         "18-07-2019": "45.0",
         "19-07-2019": "64.0",
@@ -73,8 +73,8 @@ access-control-allow-headers: Origin, X-Requested-With, Content-Type, Accept, Au
         "6": 4,
         "7": 4
     },
-    "level_1_size": 14,
-    "network_size": 132,
+    "level_1_size": 4,
+    "network_size": 12,
     "brokers_level_1": [
         [
             "IB",
