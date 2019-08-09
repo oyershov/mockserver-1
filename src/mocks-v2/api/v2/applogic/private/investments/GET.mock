@@ -1,0 +1,218 @@
+HTTP/2 200
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET, POST, DELETE, PUT, PATCH, OPTIONS, HEAD
+Access-Control-Max-Age: 3600
+Access-Control-Allow-Credentials: true
+
+[
+  {
+    "id": 1,
+    "uid": "UID12312312312",
+    "state": "active",
+    "package_size": 5000,
+    "package_interest":
+      [
+        {"id": 1, "size": 5000, "period": 10, "interest_ste": "2.0", "interest_usdt": "20.0"},
+        {"id": 2, "size": 5000, "period": 30, "interest_ste": "12.0", "interest_usdt": "40.0"},
+        {"id": 3, "size": 5000, "period": 60, "interest_ste": "22.0", "interest_usdt": "50.0"}
+      ],
+    "current_profit": {"id": 2, "size": 5000, "period": 30, "interest_ste": "12.0", "interest_usdt": "40.0"},
+    "next_profit": {"id": 3, "size": 5000, "period": 60, "interest_ste": "22.0", "interest_usdt": "50.0"},
+    "next_profit_days": 17,
+    "claimed_ste": "0.0",
+    "claimed_usdt": "0.0",
+    "claimed_at": "2019-07-02T07:26:06+02:00",
+    "closed_at": null,
+    "created_at": "2019-04-24T13:10:33+02:00",
+    "updated_at": "2020-04-24T13:09:33+02:00"
+  },
+  {
+    "id": 2,
+    "uid": "UID123123123123",
+    "state": "active",
+    "package_size": 250000,
+    "package_interest":
+      [
+        {"id": 1, "size": 250000, "period": 10, "interest_ste": "5.0", "interest_usdt": "12.0"},
+        {"id": 2, "size": 250000, "period": 30, "interest_ste": "22.0", "interest_usdt": "45.0"},
+        {"id": 3, "size": 250000, "period": 60, "interest_ste": "24.0", "interest_usdt": "100.0"}
+      ],
+    "current_profit": {"id": 2, "size": 250000, "period": 10, "interest_ste": "5.0", "interest_usdt": "12.0"},
+    "next_profit": {"id": 3, "size": 250000, "period": 30, "interest_ste": "22.0", "interest_usdt": "45.0"},
+    "next_profit_days": 9,
+    "claimed_ste": "0.3e0",
+    "claimed_usdt": "0.163e2",
+    "claimed_at": "2019-07-02T07:26:06+02:00",
+    "closed_at": null,
+    "created_at": "2019-05-24T13:09:33+02:00",
+    "updated_at": "2019-06-24T13:09:33+02:00"
+  },
+  {
+    "id": 3,
+    "uid": "UID123123123123",
+    "state": "active",
+    "package_size": 250000,
+    "package_interest":
+      [
+        {"id": 1, "size": 250000, "period": 10, "interest_ste": "5.0", "interest_usdt": "12.0"},
+        {"id": 2, "size": 250000, "period": 30, "interest_ste": "22.0", "interest_usdt": "45.0"},
+        {"id": 3, "size": 250000, "period": 60, "interest_ste": "24.0", "interest_usdt": "100.0"}
+      ],
+    "current_profit": null,
+    "next_profit": {"id": 3, "size": 250000, "period": 10, "interest_ste": "5.0", "interest_usdt": "12.0"},
+    "next_profit_days": 8,
+    "claimed_ste": "0.8e0",
+    "claimed_usdt": "0.123e1",
+    "claimed_at": "2019-07-02T07:26:06+02:00",
+    "closed_at": null,
+    "created_at": "2019-07-24T13:09:33+02:00",
+    "updated_at": "2019-08-24T13:09:33+02:00"
+  },
+  {
+    "id": 4,
+    "uid": "UID123123123123",
+    "state": "active",
+    "package_size": 500000,
+    "package_interest":
+      [
+        {"id": 1, "size": 500000, "period": 10, "interest_ste": "12.0", "interest_usdt": "17.0"},
+        {"id": 2, "size": 500000, "period": 30, "interest_ste": "67.0", "interest_usdt": "49.0"},
+        {"id": 3, "size": 500000, "period": 60, "interest_ste": "12.0", "interest_usdt": "80.0"}
+      ],
+    "current_profit": {"id": 2, "size": 500000, "period": 60, "interest_ste": "12.0", "interest_usdt": "80.0"},
+    "next_profit": null,
+    "next_profit_days": null,
+    "claimed_ste": "0.4e0",
+    "claimed_usdt": "0.173e2",
+    "claimed_at": "2019-07-02T07:26:06+02:00",
+    "closed_at": null,
+    "created_at": "2019-09-24T13:09:33+02:00",
+    "updated_at": "2019-10-24T13:09:33+02:00"
+  },
+  {
+    "id": 5,
+    "uid": "UID123123123123",
+    "state": "active",
+    "package_size": 500000,
+    "package_interest":
+      [
+        {"id": 1, "size": 500000, "period": 10, "interest_ste": "12.0", "interest_usdt": "17.0"},
+        {"id": 2, "size": 500000, "period": 30, "interest_ste": "67.0", "interest_usdt": "49.0"},
+        {"id": 3, "size": 500000, "period": 60, "interest_ste": "12.0", "interest_usdt": "80.0"}
+      ],
+    "current_profit": {"id": 2, "size": 500000, "period": 30, "interest_ste": "67.0", "interest_usdt": "49.0"},
+    "next_profit": {"id": 3, "size": 500000, "period": 60, "interest_ste": "12.0", "interest_usdt": "80.0"},
+    "next_profit_days": 2,
+    "claimed_ste": "0.3e0",
+    "claimed_usdt": "0.89e2",
+    "claimed_at": "2019-07-02T07:26:06+02:00",
+    "closed_at": null,
+    "created_at": "2019-11-24T13:09:33+02:00",
+    "updated_at": "2019-12-24T13:09:33+02:00"
+  },
+  {
+    "id": 6,
+    "uid": "UID123123123123",
+    "state": "active",
+    "package_size": 5000,
+    "package_interest":
+      [
+        {"id": 1, "size": 5000, "period": 10, "interest_ste": "2.0", "interest_usdt": "20.0"},
+        {"id": 2, "size": 5000, "period": 30, "interest_ste": "12.0", "interest_usdt": "40.0"},
+        {"id": 3, "size": 5000, "period": 60, "interest_ste": "22.0", "interest_usdt": "50.0"}
+      ],
+    "current_profit": {"id": 2, "size": 5000, "period": 30, "interest_ste": "12.0", "interest_usdt": "40.0"},
+    "next_profit": {"id": 3, "size": 5000, "period": 60, "interest_ste": "22.0", "interest_usdt": "50.0"},
+    "next_profit_days": 6,
+    "claimed_ste": "0.9e0",
+    "claimed_usdt": "0.89e2",
+    "claimed_at": "2019-07-02T07:26:06+02:00",
+    "closed_at": null,
+    "created_at": "2019-01-24T13:09:33+02:00",
+    "updated_at": "2019-02-24T13:09:33+02:00"
+  },
+  {
+    "id": 7,
+    "uid": "UID123123123123",
+    "state": "active",
+    "package_size": 5000,
+    "package_interest":
+      [
+        {"id": 1, "size": 5000, "period": 10, "interest_ste": "2.0", "interest_usdt": "20.0"},
+        {"id": 2, "size": 5000, "period": 30, "interest_ste": "12.0", "interest_usdt": "40.0"},
+        {"id": 3, "size": 5000, "period": 60, "interest_ste": "22.0", "interest_usdt": "50.0"}
+      ],
+    "current_profit": {"id": 3, "size": 5000, "period": 60, "interest_ste": "22.0", "interest_usdt": "50.0"},
+    "next_profit": null,
+    "next_profit_days": null,
+    "claimed_ste": "0.8e0",
+    "claimed_usdt": "0.89e2",
+    "claimed_at": "2019-07-02T07:26:06+02:00",
+    "closed_at": null,
+    "created_at": "2019-04-24T13:09:33+02:00",
+    "updated_at": "2019-04-24T13:09:33+02:00"
+  },
+  {
+    "id": 8,
+    "uid": "UID123123123123",
+    "state": "active",
+    "package_size": 500000,
+    "package_interest":
+      [
+        {"id": 1, "size": 5000, "period": 10, "interest_ste": "2.0", "interest_usdt": "20.0"},
+        {"id": 2, "size": 5000, "period": 30, "interest_ste": "12.0", "interest_usdt": "40.0"},
+        {"id": 3, "size": 5000, "period": 60, "interest_ste": "22.0", "interest_usdt": "50.0"}
+      ],
+    "current_profit": null,
+    "next_profit": {"id": 3, "size": 5000, "period": 60, "interest_ste": "22.0", "interest_usdt": "50.0"},
+    "next_profit_days": 12,
+    "claimed_ste": "0.19e0",
+    "claimed_usdt": "0.453e2",
+    "claimed_at": "2019-07-02T07:26:06+02:00",
+    "closed_at": null,
+    "created_at": "2019-04-24T13:09:33+02:00",
+    "updated_at": "2019-04-24T13:09:33+02:00"
+  },
+  {
+    "id": 9,
+    "uid": "UID123123123123",
+    "state": "active",
+    "package_size": 1000000,
+    "package_interest":
+      [
+        {"id": 1, "size": 1000000, "period": 10, "interest_ste": "34.0", "interest_usdt": "80.0"},
+        {"id": 2, "size": 1000000, "period": 30, "interest_ste": "67.0", "interest_usdt": "120.0"},
+        {"id": 3, "size": 1000000, "period": 60, "interest_ste": "122.0", "interest_usdt": "150.0"}
+      ],
+    "current_profit": null,
+    "next_profit": {"id": 3, "size": 1000000, "period": 60, "interest_ste": "122.0", "interest_usdt": "150.0"},
+    "next_profit_days": 12,
+    "claimed_ste": "0.5e0",
+    "claimed_usdt": "0.129e2",
+    "claimed_at": "2019-07-02T07:26:06+02:00",
+    "closed_at": null,
+    "created_at": "2019-04-24T13:09:33+02:00",
+    "updated_at": "2019-07-24T13:09:33+02:00"
+  },
+  {
+    "id": 10,
+    "uid": "UID123123123123",
+    "state": "active",
+    "package_size": 100000,
+    "package_interest":
+      [
+        {"id": 1, "size": 1000000, "period": 10, "interest_ste": "34.0", "interest_usdt": "80.0"},
+        {"id": 2, "size": 1000000, "period": 30, "interest_ste": "67.0", "interest_usdt": "120.0"},
+        {"id": 3, "size": 1000000, "period": 60, "interest_ste": "122.0", "interest_usdt": "150.0"}
+      ],
+    "current_profit": {"id": 2, "size": 1000000, "period": 30, "interest_ste": "67.0", "interest_usdt": "120.0"},
+    "next_profit": {"id": 3, "size": 1000000, "period": 60, "interest_ste": "122.0", "interest_usdt": "150.0"},
+    "next_profit_days": 1,
+    "claimed_ste": "0.7e0",
+    "claimed_usdt": "0.126e2",
+    "claimed_at": "2019-07-02T07:26:06+02:00",
+    "closed_at": null,
+    "created_at": "2019-01-24T13:09:23+02:00",
+    "updated_at": "2019-05-24T13:09:33+02:00"
+  }
+]
