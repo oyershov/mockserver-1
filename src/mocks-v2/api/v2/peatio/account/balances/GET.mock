@@ -43,7 +43,7 @@ Access-Control-Allow-Credentials: true
     "locked":"0.0"
   },
   {
-    "currency":"usd",
+    "currency":"usdt",
     "balance":"1000.0",
     "locked":"0.0"
   },

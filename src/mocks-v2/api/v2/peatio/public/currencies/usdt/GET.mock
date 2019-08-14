@@ -6,14 +6,16 @@ Access-Control-Max-Age: 3600
 Access-Control-Allow-Credentials: true
 
 {
-  "id": "usd",
+  "id": "usdt",
   "name": "US Dollar",
   "symbol": "$",
-  "type": "fiat",
+  "explorer_transaction": "https://rinkeby.etherscan.io/tx/#{txid}",
+  "explorer_address": "https://rinkeby.etherscan.io/address/#{address}",
+  "type": "coin",
   "deposit_fee": "0.0",
   "withdraw_fee": "0.0",
-  "withdraw_limit_24h": "100.0",
-  "withdraw_limit_72h": "200.0",
-  "base_factor": 1,
+  "withdraw_limit_24h": "300.0",
+  "withdraw_limit_72h": "600.0",
+  "base_factor": 1000000,
   "precision": 2
 }

@@ -70,8 +70,8 @@ Access-Control-Allow-Credentials: true
     }
   },
   {
-    "currency": "usd",
-    "type": "fiat",
+    "currency": "usdt",
+    "type": "coin",
     "fee": {
       "type": "fixed",
       "value": "0.0"

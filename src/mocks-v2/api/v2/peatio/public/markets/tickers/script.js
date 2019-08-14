@@ -105,7 +105,7 @@ module.exports = {
             "price_change_percent": "-0.80%"
         }
     },
-    "eurusd": {
+    "eurusdt": {
         "at": ts,
         "ticker": {
             "buy": "200.0",

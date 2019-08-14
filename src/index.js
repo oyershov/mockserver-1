@@ -16,7 +16,7 @@ const markets = [
   'BCH/ZAR',
   'ETH/BTC',
   'DASH/BTC',
-  'EUR/USD',
+  'EUR/USDT',
 ]
 
 const startMock = (port, version) => {

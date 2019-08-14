@@ -12,7 +12,7 @@ Total: 28
         "email": "admin@admin.fr",
         "date": "18-06-20 17:38:42",
         "amount": "2000",
-        "currency": "USD",
+        "currency": "USDT",
         "status": "Pending"
     },
     {
@@ -20,7 +20,7 @@ Total: 28
         "email": "admin@admin.fr",
         "date": "18-06-20 17:38:42",
         "amount": "2000",
-        "currency": "USD",
+        "currency": "USDT",
         "status": "Canceled"
     },
     {
@@ -28,7 +28,7 @@ Total: 28
         "email": "admin@admin.fr",
         "date": "18-06-20 17:38:42",
         "amount": "2000",
-        "currency": "USD",
+        "currency": "USDT",
         "status": "Agreed"
     }
 ]

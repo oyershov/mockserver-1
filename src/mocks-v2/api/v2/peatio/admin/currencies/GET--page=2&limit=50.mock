@@ -7,7 +7,7 @@ Total: 60
 
 [
   {
-    "id": "usd",
+    "id": "usdt",
     "name": "US Dollar",
     "symbol": "$",
     "type": "fiat",

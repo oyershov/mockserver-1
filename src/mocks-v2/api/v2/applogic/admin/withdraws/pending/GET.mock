@@ -10,7 +10,7 @@ Access-Control-Allow-Credentials: true
         "email": "admin@admin.fr",
         "date": "18-06-20 17:38:42",
         "amount": "2000",
-        "currency": "USD",
+        "currency": "USDT",
         "status": "Pending"
     },
     {
@@ -18,7 +18,7 @@ Access-Control-Allow-Credentials: true
         "email": "admin@st.net",
         "date": "18-06-20 17:38:42",
         "amount": "2000",
-        "currency": "USD",
+        "currency": "USDT",
         "status": "Canceled"
     },
     {
@@ -26,7 +26,7 @@ Access-Control-Allow-Credentials: true
         "email": "admin@admin.fr",
         "date": "18-06-20 17:38:42",
         "amount": "2000",
-        "currency": "USD",
+        "currency": "USDT",
         "status": "Agreed"
     },
     {
@@ -34,7 +34,7 @@ Access-Control-Allow-Credentials: true
         "email": "admin@admin.fr",
         "date": "18-06-20 17:38:42",
         "amount": "2000",
-        "currency": "USD",
+        "currency": "USDT",
         "status": "Pending"
     },
     {
@@ -42,7 +42,7 @@ Access-Control-Allow-Credentials: true
         "email": "admin@st.net",
         "date": "18-06-20 17:38:42",
         "amount": "2000",
-        "currency": "USD",
+        "currency": "USDT",
         "status": "Canceled"
     },
     {
@@ -50,7 +50,7 @@ Access-Control-Allow-Credentials: true
         "email": "admin@admin.fr",
         "date": "18-06-20 17:38:42",
         "amount": "2000",
-        "currency": "USD",
+        "currency": "USDT",
         "status": "Agreed"
     }
 ]
