@@ -42,7 +42,10 @@ const Helpers = {
         return tickers;
     },
     getDepth: () => {
-        const delta = 2 * (1 + Math.cos(2 * Math.PI * Date.now() / 1000 / 3600))
+        const deltaSin = 2 * (1 + Math.sin(2 * Math.PI * Date.now() / 1000 / 3600));
+        const deltaCos = 2 * (1 + Math.cos(2 * Math.PI * Date.now() / 1000 / 3600));
+        const delta = Math.random() ? deltaSin : deltaCos;
+
         const fP = (price) => parseFloat(price) + delta;
         const fV = (volume) => parseFloat(volume) + delta * 10;
         return {

@@ -13,13 +13,19 @@ const parseQuery = (url) => {
 // Those functions are the same used in k-line mocked ranger event
 const minDay = 6;
 const maxDay = 10;
-const fakePeriod = 86400;
+const fakePeriod = 10 * (Math.random() * (2 - 0.5) + 0.5);
 
 const timeToPrice = (time) => {
-    return minDay + (maxDay - minDay) / 2 * (1 + Math.cos((time / fakePeriod) * 2 * Math.PI));
+    const deltaSin = (1 + Math.sin((time / fakePeriod) * 2 * Math.PI));
+    const deltaCos = (1 + Math.cos((time / fakePeriod) * 2 * Math.PI));
+    const delta = Math.random() ? deltaSin : deltaCos;
+    return minDay + (maxDay - minDay) / 2 * delta;
 }
 const timeToVolume = (time, periodInSeconds) => {
-    return maxDay * 10 / 2 * (1 + Math.cos((time / fakePeriod) * 2 * Math.PI));
+    const deltaSin = (1 + Math.sin((time / fakePeriod) * 2 * Math.PI));
+    const deltaCos = (1 + Math.cos((time / fakePeriod) * 2 * Math.PI));
+    const delta = Math.random() ? deltaSin : deltaCos;
+    return maxDay * 10 / 2 * delta;
 };
 
 const kLine = (time, period) => {

@@ -55,7 +55,10 @@ const timeToPrice = (time) => {
 };
 
 const timeToVolume = (time, periodInSeconds) => {
-  return maxDay * 10 / 2 * (1 + Math.cos((time / fakePeriod) * 2 * Math.PI));
+  const deltaSin = 1 + Math.sin((time / fakePeriod) * 2 * Math.PI);
+  const deltaCos = 1 + Math.cos((time / fakePeriod) * 2 * Math.PI);
+  const delta = Math.random() ? deltaSin : deltaCos;
+  return maxDay * 10 / 2 * delta;
 };
 
 const kLine = (time, period) => {
