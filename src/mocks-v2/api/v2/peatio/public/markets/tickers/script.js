@@ -118,6 +118,71 @@ module.exports = {
             "price_change_percent": "+0.04%"
         }
     },
+    "btcusdt": {
+        "at": ts,
+        "ticker": {
+            "buy": "1200.0",
+            "sell": "1300.0",
+            "low": "1150.0",
+            "high": "1350.0",
+            "last": "1250.0",
+            "vol": "120.0",
+            "open": 1251.0,
+            "price_change_percent": "+0.08%"
+        }
+    },
+    "ethusdt": {
+        "at": ts,
+        "ticker": {
+            "buy": "200.0",
+            "sell": "300.0",
+            "low": "150.0",
+            "high": "350.0",
+            "last": "250.0",
+            "vol": "20.0",
+            "open": 235.4,
+            "price_change_percent": "-5.84%"
+        }
+    },
+    "ltcusdt": {
+        "at": ts,
+        "ticker": {
+            "buy": "200.0",
+            "sell": "300.0",
+            "low": "150.0",
+            "high": "350.0",
+            "last": "250.0",
+            "vol": "20.0",
+            "open": 252.0,
+            "price_change_percent": "+0.80%"
+        }
+    },
+    "xrpusdt": {
+        "at": ts,
+        "ticker": {
+            "buy": "200.0",
+            "sell": "300.0",
+            "low": "150.0",
+            "high": "350.0",
+            "last": "250.0",
+            "vol": "20.0",
+            "open": 250.1,
+            "price_change_percent": "+0.04%"
+        }
+    },
+    "steusdt": {
+        "at": ts,
+        "ticker": {
+            "buy": "0.7",
+            "sell": "0.8",
+            "low": "0.5",
+            "high": "0.9",
+            "last": "0.8",
+            "vol": "300.0",
+            "open": 0.82,
+            "price_change_percent": "+35.12%"
+        }
+    },
     "ethzar": {
         "at": ts,
         "ticker": {

@@ -51,5 +51,10 @@ Access-Control-Allow-Credentials: true
     "currency":"eur",
     "balance":"1000.0",
     "locked":"0.0"
+  },
+    {
+    "currency":"ste",
+    "balance":"200432.4765",
+    "locked":"13.2"
   }
 ]
