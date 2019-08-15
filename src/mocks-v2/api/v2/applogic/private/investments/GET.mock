@@ -18,7 +18,7 @@ Access-Control-Allow-Credentials: true
       ],
     "current_profit": {"id": 2, "size": 5000, "period": 30, "interest_ste": "12.0", "interest_usdt": "40.0"},
     "next_profit": {"id": 3, "size": 5000, "period": 60, "interest_ste": "22.0", "interest_usdt": "50.0"},
-    "next_profit_days": 17,
+    "next_profit_days": null,
     "claimed_ste": "0.0",
     "claimed_usdt": "0.0",
     "claimed_at": "2019-07-02T07:26:06+02:00",
