@@ -1,0 +1,15 @@
+HTTP/2 200
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET, POST, DELETE, PUT, PATCH, OPTIONS, HEAD
+Access-Control-Max-Age: 3600
+Access-Control-Allow-Credentials: true
+
+{
+  "1565038800": [{"id": 29, "package_size": 5000}, {"id": 30, "package_size": 5000}],
+  "1565125200": [{"id": 29, "package_size": 5000}, {"id": 30, "package_size": 5000}],
+  "1565211600": [{"id": 29, "package_size": 5000}, {"id": 30, "package_size": 5000}],
+  "1565298000": [{"id": 29, "package_size": 5000}, {"id": 30, "package_size": 5000}],
+  "1565384400": [{"id": 29, "package_size": 5000}, {"id": 30, "package_size": 5000}],
+  "1565470800": [{"id": 29, "package_size": 5000}, {"id": 30, "package_size": 5000}],
+  "1565557200": [{"id": 29, "package_size": 5000}, {"id": 30, "package_size": 5000}]
+}
