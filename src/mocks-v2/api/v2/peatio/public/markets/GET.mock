@@ -8,24 +8,24 @@ Access-Control-Allow-Credentials: true
 
 [
   {
-    "id": "btczar",
-    "name": "BTC/ZAR",
-    "base_unit": "btc",
-    "quote_unit": "zar",
+    "id": "stebtc",
+    "name": "STE/BTC",
+    "base_unit": "ste",
+    "quote_unit": "btc",
     "ask_fee": "0.0015",
     "bid_fee": "0.0015",
     "min_price": "0.0",
     "max_price": "0.0",
     "min_amount": "0.0",
     "amount_precision": 6,
-    "price_precision": 2,
+    "price_precision": 6,
     "state": "enabled"
   },
   {
-    "id": "bchzar",
-    "name": "BCH/ZAR",
-    "base_unit": "bch",
-    "quote_unit": "zar",
+    "id": "steeth",
+    "name": "STE/ETH",
+    "base_unit": "ste",
+    "quote_unit": "eth",
     "ask_fee": "0.0015",
     "bid_fee": "0.0015",
     "min_price": "0.0",
@@ -50,10 +50,10 @@ Access-Control-Allow-Credentials: true
     "state": "enabled"
   },
   {
-    "id": "dashbtc",
-    "name": "DASH/BTC",
-    "base_unit": "dash",
-    "quote_unit": "btc",
+    "id": "steltc",
+    "name": "STE/LTC",
+    "base_unit": "ste",
+    "quote_unit": "ltc",
     "ask_fee": "0.0015",
     "bid_fee": "0.0015",
     "min_price": "0.0",

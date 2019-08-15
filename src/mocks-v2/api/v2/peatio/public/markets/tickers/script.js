@@ -1,14 +1,14 @@
 var ts = parseInt(Date.now() / 1000);
 
 module.exports = {
-    "btczar": {
+    "stebtc": {
         "at": ts,
         "ticker": {
             "buy": "1200.0",
             "sell": "1300.0",
             "low": "1150.0",
             "high": "1350.0",
-            "last": "1250.0",
+            "last": "0.00001",
             "vol": "120.0",
             "open": 1251.0,
             "price_change_percent": "+0.08%"
@@ -40,14 +40,14 @@ module.exports = {
             "price_change_percent": "+0.81%"
         }
     },
-    "dashbtc": {
+    "steltc": {
         "at": ts,
         "ticker": {
             "buy": "1.20",
             "sell": "1.30",
             "low": "1.15",
             "high": "1.35",
-            "last": "1.250",
+            "last": "0.05",
             "vol": "50.0",
             "open": 1.250,
             "price_change_percent": "+0.00%"
@@ -196,14 +196,14 @@ module.exports = {
             "price_change_percent": "-5.84%"
         }
     },
-    "dashzar": {
+    "stebch": {
         "at": ts,
         "ticker": {
             "buy": "200.0",
             "sell": "300.0",
             "low": "150.0",
             "high": "350.0",
-            "last": "250.0",
+            "last": "0.001",
             "vol": "20.0",
             "open": 252.0,
             "price_change_percent": "+0.80%"
