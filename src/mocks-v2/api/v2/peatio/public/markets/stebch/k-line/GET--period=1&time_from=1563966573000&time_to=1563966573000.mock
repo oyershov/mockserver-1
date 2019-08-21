@@ -1,14 +1,8 @@
 HTTP/2 200
+Content-Type: application/json; charset=utf-8
 Access-Control-Allow-Origin: *
 Access-Control-Allow-Methods: GET, POST, DELETE, PUT, PATCH, OPTIONS, HEAD
 Access-Control-Max-Age: 3600
 Access-Control-Allow-Credentials: true
 
-{
-  "claimed_ste": "1220.2",
-  "claimed_usdt": "132.3",
-  "unclaimed_ste": "123.43",
-  "unclaimed_usdt": "12.3",
-  "balance": "523019.0",
-  "amount": 10
-}
+[[1563966572991,0.02,0.02,0.02,0.02,0]]
