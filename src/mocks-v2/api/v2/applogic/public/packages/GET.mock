@@ -1,0 +1,106 @@
+HTTP/2 200
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET, POST, DELETE, PUT, PATCH, OPTIONS, HEAD
+Access-Control-Max-Age: 3600
+Access-Control-Allow-Credentials: true
+
+[
+  {
+    "id": 1,
+    "size": 5000,
+    "period": 10,
+    "interest_usdt": "0.2e1",
+    "interest_ste": "0.6e1"
+  },
+  {
+    "id": 2,
+    "size": 5000,
+    "period": 30,
+    "interest_usdt": "0.612e1",
+    "interest_ste": "0.1836e2"
+  },
+  {
+    "id": 3,
+    "size": 5000,
+    "period": 60,
+    "interest_usdt": "0.126e2",
+    "interest_ste": "0.3782e2"
+  },
+  {
+    "id": 4,
+    "size": 25000,
+    "period": 10,
+    "interest_usdt": "0.11e2",
+    "interest_ste": "0.35e2"
+  },
+  {
+    "id": 5,
+    "size": 25000,
+    "period": 30,
+    "interest_usdt": "0.34e2",
+    "interest_ste": "0.107e3"
+  },
+  {
+    "id": 6,
+    "size": 25000,
+    "period": 60,
+    "interest_usdt": "0.69e2",
+    "interest_ste": "0.22e3"
+  },
+  {
+    "id": 7,
+    "size": 100000,
+    "period": 10,
+    "interest_usdt": "0.45e2",
+    "interest_ste": "0.146e3"
+  },
+  {
+    "id": 8,
+    "size": 100000,
+    "period": 30,
+    "interest_usdt": "0.1414e3",
+    "interest_ste": "0.455e3"
+  },
+  {
+    "id": 9,
+    "size": 100000,
+    "period": 60,
+    "interest_usdt": "0.297e3",
+    "interest_ste": "0.955e3"
+  },
+  {
+    "id": 10,
+    "size": 100000,
+    "period": 90,
+    "interest_usdt": "0.472e3",
+    "interest_ste": "0.1518e4"
+  },
+    {
+    "id": 11,
+    "size": 500000,
+    "period": 10,
+    "interest_usdt": "0.47e2",
+    "interest_ste": "0.234e3"
+  },
+  {
+    "id": 12,
+    "size": 500000,
+    "period": 30,
+    "interest_usdt": "0.124e3",
+    "interest_ste": "0.454e3"
+  },
+  {
+    "id": 13,
+    "size": 500000,
+    "period": 60,
+    "interest_usdt": "0.467e3",
+    "interest_ste": "0.992e3"
+  },
+  {
+    "id": 14,
+    "size": 500000,
+    "period": 90,
+    "interest_usdt": "0.594e3",
+    "interest_ste": "0.232e4"
+  }
+]
