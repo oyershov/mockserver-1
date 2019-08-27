@@ -203,11 +203,7 @@ module.exports = {
             "sell": "300.0",
             "low": "150.0",
             "high": "350.0",
-<<<<<<< HEAD
-            "last": "0.001",
-=======
             "last": "252.0",
->>>>>>> 111b439... Improve k-line
             "vol": "20.0",
             "open": 250.0,
             "price_change_percent": "+0.80%"
