@@ -1,0 +1,20 @@
+HTTP/2 201
+access-control-allow-origin: *
+access-control-allow-methods: GET, POST, PUT, PATCH, DELETE
+access-control-allow-headers: Origin, X-Requested-With, Content-Type, Accept, Authorization
+Access-Control-Max-Age: 3600
+Access-Control-Allow-Credentials: true
+
+{
+     "last_30_day_revenue": {
+         "eth": [2.8, 512.31],
+         "btc": [0.1, 170.6],
+         "zec": [3.12, 168.9],
+         "ltc": [2.35, 170.1],
+         "dash": [1.2, 113.4]
+     },
+     "last_24h_volume": 1336.55,
+     "last_7_day_volume": 7156.12,
+     "last_30_day_volume": 35156.12,
+     "last_30_day_network_volume": 63112.21
+ }
