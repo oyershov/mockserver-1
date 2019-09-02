@@ -12,21 +12,21 @@ Access-Control-Allow-Credentials: true
     "currency": "eth",
     "name": "First company",
     "state": 0,
-    "data": "{'txid': '0xa96bbd0de64ef10659ae49d5ca4bb8109169007eb90d53aa3f87b6dc65530d8a'}"
+    "data": "{'address': '0xa96bbd0de64ef10659ae49d5ca4bb8109169007eb90d53aa3f87b6dc65530d8a'}"
   },
   {
     "id": 2,
     "currency": "btc",
     "name": "Second company",
     "state": 0,
-    "data": "{'txid': '0xa96bbd0de64ef10659ae49d5ca4bb8109169007eb90d53aa3f87b6dc65530d8a'}"
+    "data": "{'address': '0xa96bbd0de64ef10659ae49d5ca4bb8109169007eb90d53aa3f87b6dc65530d8a'}"
   },
   {
     "id": 5,
     "currency": "btc",
     "name": "Fifth company",
     "state": 1,
-    "data": "{'txid': '0xa96bbd0de64ef10659ae49d5ca4bb8109169007eb90d53aa3f87b6dc65530d8a'}"
+    "data": "{'address': '0xa96bbd0de64ef10659ae49d5ca4bb8109169007eb90d53aa3f87b6dc65530d8a'}"
   },
   {
     "id": 3,
