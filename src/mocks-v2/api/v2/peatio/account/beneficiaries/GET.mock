@@ -9,31 +9,39 @@ Access-Control-Allow-Credentials: true
 [
   {
     "id": 1,
-    "currency": "eth",
+    "currency": "bch",
     "name": "First company",
-    "state": 0,
-    "data": "{'address': '0xa96bbd0de64ef10659ae49d5ca4bb8109169007eb90d53aa3f87b6dc65530d8a'}"
+    "state": "active",
+    "data": "{\"address\": \"0xa96bbd0de64ef10659ae49d5ca4bb8109169007eb90d53aa3f87b6dc65530d8a\"}"
   },
   {
     "id": 2,
     "currency": "btc",
     "name": "Second company",
-    "state": 0,
-    "data": "{'address': '0xa96bbd0de64ef10659ae49d5ca4bb8109169007eb90d53aa3f87b6dc65530d8a'}"
+    "state": "active",
+    "description": "Consequat cupidatat officia duis duis enim voluptate cillum consectetur amet qui commodo proident elit. Aliqua mollit tempor aliqua ipsum mollit officia commodo fugiat dolore i",
+    "data": "{\"address\": \"2xa96bbd0de64ef10659ae49d5ca4bb8109169007eb90d53aa3f87b6dc65530d8a\"}"
   },
   {
     "id": 5,
     "currency": "btc",
     "name": "Fifth company",
-    "state": 1,
-    "data": "{'address': '0xa96bbd0de64ef10659ae49d5ca4bb8109169007eb90d53aa3f87b6dc65530d8a'}"
+    "state": "archieved",
+    "data": "{\"address\": \"5xa96bbd0de64ef10659ae49d5ca4bb8109169007eb90d53aa3f87b6dc65530d8a\"}"
+  },
+  {
+    "id": 7,
+    "currency": "btc",
+    "name": "Seventh company",
+    "state": "active",
+    "data": "{\"address\": \"7xa96bbd0de64ef10659ae49d5ca4bb8109169007eb90d53aa3f87b6dc65530d8a\"}"
   },
   {
     "id": 3,
     "currency": "usd",
     "name": "Third company",
-    "state": 0,
+    "state": "active",
     "description": "Information about second company",
-    "data": "{'beneficiaryBank': 'Name of the bank', 'intermediaryBank': 'Name of bank', 'correspondentAccount': '0110100101'}"
+    "data": "{\"beneficiaryBank\": \"Name of the bank\", \"intermediaryBank\": \"Name of bank\", \"correspondentAccount\": \"0110100101\"}"
   }
 ]
