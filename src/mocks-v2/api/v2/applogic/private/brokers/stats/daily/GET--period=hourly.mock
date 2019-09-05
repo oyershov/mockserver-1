@@ -76,6 +76,6 @@ Access-Control-Allow-Credentials: true
         "date": "2019-09-01 08:31:24 UTC", "value": "5.0"
     },
     {
-        "date": "2019-09-01 09:31:24 UTC", "value": "2.0
-    "}
+        "date": "2019-09-01 09:31:24 UTC", "value": "2.0"
+    }
 ]
