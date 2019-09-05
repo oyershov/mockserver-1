@@ -1,6 +1,6 @@
 {
   "name": "peatio-mockserver",
-  "version": "1.0.89",
+  "version": "1.0.150",
   "description": "Peatio Mock Server",
   "main": "index.js",
   "author": "OpenWare SAS",
