@@ -1,0 +1,12 @@
+HTTP/2 201
+access-control-allow-origin: *
+access-control-allow-methods: GET, POST, PUT, PATCH, DELETE
+access-control-allow-headers: Origin, X-Requested-With, Content-Type, Accept, Authorization
+Access-Control-Max-Age: 3600
+Access-Control-Allow-Credentials: true
+
+{
+    "bronze": 1000,
+    "silver": 10000,
+    "gold": 100000
+}
