@@ -5,9 +5,13 @@ access-control-allow-methods: GET, POST, PUT, PATCH, DELETE
 access-control-allow-headers: Origin, X-Requested-With, Content-Type, Accept, Authorization
 
 {
-    "id": "1",
-    "currency": "eth",
-    "name": "First company",
-    "state": "pending",
-    "data": {"address": "0xa96bbd0de64ef10659ae49d5ca4bb8109169007eb90d53aa3f87b6dc65530d8a"}
+  "id": "8",
+  "currency": "eur",
+  "name": "First company",
+  "state": "pending",
+  "data": {
+    "full_name": "2",
+    "account_number": "3",
+    "bank_name": "4"
+  }
 }

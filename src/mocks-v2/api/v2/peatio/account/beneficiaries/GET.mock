@@ -12,7 +12,7 @@ Access-Control-Allow-Credentials: true
     "currency": "bch",
     "name": "First company",
     "state": "active",
-    "data": "{\"address\": \"0xa96bbd0de64ef10659ae49d5ca4bb8109169007eb90d53aa3f87b6dc65530d8a\"}"
+    "data": {"address": "0xa96bbd0de64ef10659ae49d5ca4bb8109169007eb90d53aa3f87b6dc65530d8a"}
   },
   {
     "id": 2,
@@ -20,21 +20,21 @@ Access-Control-Allow-Credentials: true
     "name": "Second company",
     "state": "active",
     "description": "Consequat cupidatat officia duis duis enim voluptate cillum consectetur amet qui commodo proident elit. Aliqua mollit tempor aliqua ipsum mollit officia commodo fugiat dolore i",
-    "data": "{\"address\": \"2xa96bbd0de64ef10659ae49d5ca4bb8109169007eb90d53aa3f87b6dc65530d8a\"}"
+    "data": {"address": "2xa96bbd0de64ef10659ae49d5ca4bb8109169007eb90d53aa3f87b6dc65530d8a"}
   },
   {
     "id": 5,
     "currency": "btc",
     "name": "Fifth company",
     "state": "archieved",
-    "data": "{\"address\": \"5xa96bbd0de64ef10659ae49d5ca4bb8109169007eb90d53aa3f87b6dc65530d8a\"}"
+    "data": {"address": "5xa96bbd0de64ef10659ae49d5ca4bb8109169007eb90d53aa3f87b6dc65530d8a"}
   },
   {
     "id": 7,
     "currency": "btc",
     "name": "Seventh company",
     "state": "active",
-    "data": "{\"address\": \"7xa96bbd0de64ef10659ae49d5ca4bb8109169007eb90d53aa3f87b6dc65530d8a\"}"
+    "data": {"address": "7xa96bbd0de64ef10659ae49d5ca4bb8109169007eb90d53aa3f87b6dc65530d8a"}
   },
   {
     "id": 3,
@@ -42,6 +42,15 @@ Access-Control-Allow-Credentials: true
     "name": "Third company",
     "state": "active",
     "description": "Information about second company",
-    "data": "{\"beneficiaryBank\": \"Name of the bank\", \"intermediaryBank\": \"Name of bank\", \"correspondentAccount\": \"0110100101\"}"
+    "data": {
+      "address": "Somestreet 42, City",
+      "country": "Wakanda",
+      "full_name": "Some name",
+      "account_number": "1234512345",
+      "account_type": "Account type",
+      "bank_name": "First bank",
+      "bank_address": "Anotherstreet 13",
+      "bank_country": "Wakanda"
+    }
   }
 ]
