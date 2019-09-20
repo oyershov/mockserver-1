@@ -26,24 +26,24 @@ access-control-allow-headers: Origin, X-Requested-With, Content-Type, Accept, Au
       "updated_at":"2019-02-25T12:41:49Z"
    },
    {
-      "key":"id_document",
-      "value":"verified",
-      "scope":"private",
-      "created_at":"2019-02-25T12:41:49Z",
-      "updated_at":"2019-02-25T12:41:49Z"
-   },
-   {
-       "key":"liveness",
-       "value":"verified",
-       "scope":"private",
-       "created_at":"2019-02-25T12:41:49Z",
-       "updated_at":"2019-02-25T12:41:49Z"
-   },
-   {
       "key":"document",
       "value":"verified",
       "scope":"private",
       "created_at":"2019-02-25T12:47:07Z",
       "updated_at":"2019-02-25T12:47:07Z"
+   },
+   {
+      "key":"address",
+      "value":"verified",
+      "scope":"private",
+      "created_at":"2019-02-25T13:47:07Z",
+      "updated_at":"2019-02-25T13:47:07Z"
+   },
+   {
+      "key":"institutional",
+      "value":"verified",
+      "scope":"private",
+      "created_at":"2019-02-25T13:47:07Z",
+      "updated_at":"2019-02-25T13:47:07Z"
    }
 ]
