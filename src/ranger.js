@@ -141,12 +141,12 @@ class RangerMock {
 
     console.log(`Ranger: connection accepted, url: ${request.url}`);
     this.subscribe(ws, Helpers.getStreamsFromUrl(request.url));
-    ws.timers.push(setInterval(tickersMock(ws, this.markets), 3000));
+    ws.timers.push(setInterval(tickersMock(ws, this.markets), 18000));
     this.markets.forEach((name) => {
       let { baseUnit, quoteUnit, marketId } = Helpers.getMarketInfos(name);
-      ws.timers.push(setInterval(orderBookUpdateMock(ws, marketId), 3000));
-      ws.timers.push(setInterval(matchedTradesMock(ws, marketId), 1000))
-      ws.timers.push(setInterval(klinesMock(ws, marketId), 2500))
+      ws.timers.push(setInterval(orderBookUpdateMock(ws, marketId), 18000));
+      ws.timers.push(setInterval(matchedTradesMock(ws, marketId), 6000))
+      ws.timers.push(setInterval(klinesMock(ws, marketId), 15000))
     });
   }
   closeConnection(ws) {

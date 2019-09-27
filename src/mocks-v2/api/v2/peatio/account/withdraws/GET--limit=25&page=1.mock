@@ -9,6 +9,34 @@ Total: 28
 
 [
     {
+      "amount": "10.0",
+      "blockchain_txid": null,
+      "created_at": "2019-09-26T16:41:54+02:00",
+      "currency": "usd",
+      "done_at": null,
+      "fee": "0.0",
+      "id": 2,
+      "note": null,
+      "rid": "2-usd-00000002",
+      "state": "submitted",
+      "type": "fiat",
+      "updated_at": "2019-09-26T16:41:54+02:00"
+    },
+    {
+      "amount": "1.0",
+      "blockchain_txid": null,
+      "confirmations": 0,
+      "created_at": "2019-09-26T11:37:21+02:00",
+      "currency": "eth",
+      "done_at": null,
+      "fee": "0.0",
+      "id": 1,
+      "note": null,
+      "rid": "address",
+      "type": "coin",
+      "updated_at": "2019-09-26T11:37:22+02:00"
+    },
+    {
         "id":339,
         "currency":"ltc",
         "type":"coin",
