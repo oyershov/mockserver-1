@@ -57,11 +57,11 @@ class SlangerMock {
             case "pusher:subscribe":
               ws.send(JSON.stringify({ "event": "pusher_internal:subscription_succeeded", "data": {}, "channel": channel }));
               if (channel === "market-global") {
-                timers.push(setInterval(tickersMock(ws, channel, markets), 3000));
+                timers.push(setInterval(tickersMock(ws, channel, markets), 9000));
               } else {
                 if (channel.match(/market-([^-]*)-global/)) {
-                  timers.push(setInterval(orderBookUpdateMock(ws, channel), 3000));
-                  timers.push(setInterval(tradesMock(ws, channel), 5000));
+                  timers.push(setInterval(orderBookUpdateMock(ws, channel), 9000));
+                  timers.push(setInterval(tradesMock(ws, channel), 15000));
                 }
               }
               break;
