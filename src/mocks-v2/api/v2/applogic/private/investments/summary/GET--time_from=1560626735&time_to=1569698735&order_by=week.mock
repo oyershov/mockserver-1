@@ -1,0 +1,23 @@
+HTTP/2 200
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET, POST, DELETE, PUT, PATCH, OPTIONS, HEAD
+Access-Control-Max-Age: 3600
+Access-Control-Allow-Credentials: true
+
+{
+  "1561075200":[{},{}],
+  "1561680000":[{},{}],
+  "1562284800":[{"id": 1, "package_size": 5000}],
+  "1562889600":[{"id": 1, "package_size": 5000}],
+  "1563494400":[{"id": 1, "package_size": 5000}],
+  "1564099200":[{"id": 2, "package_size": 250000}, {"id": 5, "package_size": 500000}],
+  "1564704000":[{"id": 2, "package_size": 250000}, {"id": 5, "package_size": 500000}],
+  "1565308800":[{"id": 2, "package_size": 250000}, {"id": 5, "package_size": 500000}],
+  "1565913600":[{"id": 2, "package_size": 250000}, {"id": 5, "package_size": 500000}],
+  "1566518400":[{"id": 2, "package_size": 250000}, {"id": 5, "package_size": 500000}],
+  "1567123200":[{"id": 2, "package_size": 250000}, {"id": 5, "package_size": 500000}],
+  "1567728000":[{"id": 5, "package_size": 500000}],
+  "1568332800":[{"id": 5, "package_size": 500000}],
+  "1568937600":[{"id": 1, "package_size": 5000}, {"id": 2, "package_size": 250000}],
+  "1569542400":[{"id": 2, "package_size": 250000}, {"id": 5, "package_size": 500000}, {"id": 3, "package_size": 250000}]
+}
