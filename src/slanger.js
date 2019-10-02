@@ -9,6 +9,10 @@ const orderBookUpdateMock = (ws, channel) => () => {
   ws.send(JSON.stringify({"event": "update","data": Helpers.getDepth(),"channel": channel}))
 };
 
+const orderBookIEOUpdateMock = (ws, channel) => () => {
+  ws.send(JSON.stringify({"event": "sale","data": Helpers.getIEO(),"channel": channel}))
+};
+
 var tradeId = 100000;
 const tradesMock = (ws, channel) => {
   var tradeSide = "buy";
@@ -62,6 +66,9 @@ class SlangerMock {
                 if (channel.match(/market-([^-]*)-global/)) {
                   timers.push(setInterval(orderBookUpdateMock(ws, channel), 9000));
                   timers.push(setInterval(tradesMock(ws, channel), 15000));
+                }
+                if (channel.match(/([^.]*)\.ieo-sale/)) {
+                  timers.push(setInterval(orderBookIEOUpdateMock(ws, channel), 10000));
                 }
               }
               break;
